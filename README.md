@@ -9,8 +9,7 @@
 <h2 align="left">🏠 My main projects</h2>
 
 ###
-
-<p align="left">Friday</p> <a href="LINK-LORY">Maki Client</a>
+Friday <a href="LINK-LORY">Testo cliccabile con il link</a>
 
 ###
 
