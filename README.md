@@ -10,11 +10,11 @@
 
 ###
 
-<a href="LINK-LORY">Testo cliccabile con il link</a> - Friday
+<a href="LINK-LORY">Maki Client</a> - An Android client for Lemmy 
 
 ###
 
-[Friday](LINK-LORY)
+<a href="LINK-LORY">Friday</a> - A personal assistant powered by artificial intelligence for managing home automation and computers, with the community able to develop plugins to extend its functions.
 
 ###
 
