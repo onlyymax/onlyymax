@@ -80,6 +80,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="discord logo"  />
+  <img width="12" />
+  <img src="[https://cdn.simpleicons.org/discord/5865F2](https://raw.githubusercontent.com/onlyymax/onlyymax/dc4217e01cb487c6ee4a1a66214f788131383bed/arch%20linux.svg)" height="40" alt="arch linux logo"  />
 </div>
 
 ###
