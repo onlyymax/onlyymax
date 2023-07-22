@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Loris Client (For Lemmy)</p>
+[Lory Client](LINK-LORY)
 
 ###
 
