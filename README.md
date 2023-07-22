@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">I'm a 16-year-old student currently attending an Italian Technical High School (ITIS) and I have a strong passion for programming and computer science. To pursue this passion, I founded a computer science group aimed at sharing my knowledge and enthusiasm with like-minded individuals.<br><br>To showcase my programming projects and collaborate with other developers, I use GitHub, a platform that allows me to share my work with a wider audience. I am constantly striving to improve my skills and expand my knowledge of various programming languages and techniques.<br><br>Thank you for taking the time to learn a little about me and my love for programming.</h4>
+<h4 align="left">I'm a 16-year-old student currently attending an Italian Technical High School (ITIS) and I have a strong passion for programming and computer science. To pursue this passion, I founded a computer science group aimed at sharing my knowledge and enthusiasm with like-minded individuals.<br><br>Thank you for taking the time to learn a little about me and my love for programming.</h4>
 
 ###
 
