@@ -55,31 +55,31 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" title="Visual Studio Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo" title="Visual Studio" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/onlyymax/onlyymax/ed23c468709a3a8d1f9c8847875f10a7b0c965fb/intellij-idea-svgrepo-com.svg" height="40" alt="intellijidea logo" title="IntelliJ IDEA" />
+  <img src="https://raw.githubusercontent.com/onlyymax/onlyymax/ed23c468709a3a8d1f9c8847875f10a7b0c965fb/intellij-idea-svgrepo-com.svg" height="40" alt="intellijidea logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/eclipseide/2C2255" height="40" alt="eclipseide logo" title="Eclipse IDE" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="40" alt="eclipseide logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo" title="Android Studio" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" title="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/wordpress/21759B" height="40" alt="wordpress logo" title="WordPress" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo" title="Adobe Photoshop" />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo" title="Adobe Premiere Pro" />
+  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="40" alt="inkscape logo" title="Inkscape" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="40" title="inkscape logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" title="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/onlyymax/onlyymax/b3acd318f892db6edd22158f18fb0d8f3033fb91/arch%20linux.svg" height="40" alt="arch linux logo" title="Arch Linux" />
+  <img src="https://raw.githubusercontent.com/onlyymax/onlyymax/b3acd318f892db6edd22158f18fb0d8f3033fb91/arch%20linux.svg" height="40" alt="arch linux logo" />
 </div>
 
 ###
