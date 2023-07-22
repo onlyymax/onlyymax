@@ -9,7 +9,8 @@
 <h2 align="left">🏠 My main projects</h2>
 
 ###
-Friday <a href="LINK-LORY">Testo cliccabile con il link</a>
+
+<a href="LINK-LORY">Testo cliccabile con il link</a> - Friday
 
 ###
 
