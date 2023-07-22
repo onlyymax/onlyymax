@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Friday</p> [Maki Client](LINK-LORY)
+<p align="left">Friday</p> <a href="LINK-LORY">Maki Client</a>
 
 ###
 
