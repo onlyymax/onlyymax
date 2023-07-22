@@ -10,11 +10,11 @@
 
 ###
 
-[Lory Client](LINK-LORY)
+<p align="left">Friday</p> [Maki Client](LINK-LORY)
 
 ###
 
-<p align="left">Friday</p>
+[Friday](LINK-LORY)
 
 ###
 
