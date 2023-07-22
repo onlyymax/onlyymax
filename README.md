@@ -79,8 +79,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="discord logo"  />
-  <img width="12" />
   <img src="https://raw.githubusercontent.com/onlyymax/onlyymax/b3acd318f892db6edd22158f18fb0d8f3033fb91/arch%20linux.svg" height="40" alt="arch linux logo"  />
 </div>
 
