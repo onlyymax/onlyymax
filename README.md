@@ -61,7 +61,7 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/onlyymax/onlyymax/ed23c468709a3a8d1f9c8847875f10a7b0c965fb/intellij-idea-svgrepo-com.svg" height="40" alt="intellijidea logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="40" alt="eclipseide logo" />
+  <img src="https://www.svgrepo.com/show/353685/eclipse-icon.svg" height="40" alt="eclipseide logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo" />
   <img width="12" />
