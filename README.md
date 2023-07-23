@@ -92,6 +92,6 @@
 
 ###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=onlyymax&show_icons=true&theme=dark&locale=en&layout=compact" alt="onlyymax" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=onlyymax&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="onlyymax" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onlyymax&show_icons=true&theme=dark&locale=en" alt="onlyymax" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onlyymax&show_icons=true&theme=dark&hide_border=true&locale=en" alt="onlyymax" /></p>
