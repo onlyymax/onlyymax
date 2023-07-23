@@ -10,7 +10,7 @@
 
 ###
 
-<a href="LINK-LORY">Maki Client</a> - An Android client for Lemmy 
+<a href="https://github.com/onlyymax/MakiClient">Maki Client</a> - An Android client for Lemmy 
 
 ###
 
