@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=onlyymax&label=Profile%20views&color=202020&style=flat" alt="onlyymax" /> </p>x
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=onlyymax&label=Profile%20views&color=202020&style=flat" alt="onlyymax" /> </p>
 
 ###
 
