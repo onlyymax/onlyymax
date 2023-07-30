@@ -95,3 +95,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=onlyymax&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="onlyymax" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onlyymax&show_icons=true&theme=dark&hide_border=true&locale=en" alt="onlyymax" /></p>
+
+Ubuntu install: https://releases.ubuntu.com/22.04.2/ubuntu-22.04.2-desktop-amd64.iso
