@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">🌐 Founder of http://archisoft.it/<br>👦 15y.o<br>📍 Catania<br>📚 ITIS Archimede 3°C INF<br>💻 Developer Python/Kotlin<br>🐧 Linux User</p>
+<p align="left">🌐 Founder of http://archisoft.it/<br>Catania<br>📚 ITIS Archimede<br>💻 Developer Python/Kotlin<br>🐧 Linux User</p>
 
 ###
 
