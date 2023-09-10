@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">🌐 Founder of http://archisoft.it/<br>Catania<br>📚 ITIS Archimede<br>💻 Developer Python/Kotlin<br>🐧 Linux User</p>
+<p align="left">🌐 Founder of http://archisoft.it/<br>📍 Catania<br>📚 ITIS Archimede<br>💻 Developer Python/Kotlin<br>🐧 Linux User</p>
 
 ###
 
