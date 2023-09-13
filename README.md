@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">I'm a 16-year-old student currently attending an Italian Technical High School (ITIS) and I have a strong passion for programming and computer science. To pursue this passion, I founded a computer science group aimed at sharing my knowledge and enthusiasm with like-minded individuals.<br><br>Thank you for taking the time to learn a little about me and my love for programming.<br><br>I hate PHP</h4>
+<h4 align="left">I'm a 16-year-old student currently attending an Italian Technical High School (ITIS) and I have a strong passion for programming and computer science. To pursue this passion, I founded a computer science group aimed at sharing my knowledge and enthusiasm with like-minded individuals.<br><br>Thank you for taking the time to learn a little about me and my love for programming.<br><br>(I hate PHP)</h4>
 
 ###
 
