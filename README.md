@@ -1,6 +1,4 @@
-<h1 align="left">👋 Heyoo I'm Max.</h1>
-
-###
+<h1>👋 Heyoo I'm Max.</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onlyymax&label=Profile%20views&color=202020&style=flat" alt="onlyymax" /> </p>
 
