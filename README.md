@@ -39,16 +39,6 @@
 
 <h2 align="left">👨‍💻 Software skills</h2>
 
-
-
-
-
-
-
-
-
-
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
   <img width="12" />
