@@ -3,34 +3,19 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onlyymax&label=Profile%20views&color=202020&style=flat" alt="onlyymax" /> </p>
 
 
-
 <h4 align="left">I'm a 16-year-old student currently attending an Italian Technical High School (ITIS) and I have a strong passion for programming and computer science. To pursue this passion, I founded a computer science group aimed at sharing my knowledge and enthusiasm with like-minded individuals.<br><br>Thank you for taking the time to learn a little about me and my love for programming.<br><br>(I hate PHP)</h4>
-
-###
 
 <h2 align="left">🏠 My main projects</h2>
 
-###
-
 <a href="https://github.com/ArchiSoft-it/MakiClient">Maki Client</a> - An Android client for Lemmy 
-
-###
 
 <a href="LINK-LORY">Friday</a> - A personal assistant powered by artificial intelligence for managing home automation and computers, with the community able to develop plugins to extend its functions.
 
-###
-
 <h2 align="left">ℹ️ About me</h2>
-
-###
 
 <p align="left">🌐 Founder of http://archisoft.it/<br>📍 Catania<br>📚 ITIS Archimede<br>💻 Developer Python/Kotlin<br>🐧 Linux User</p>
 
-###
-
 <h2 align="left">🖥️ Language skills</h2>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -52,11 +37,7 @@
   <img src="https://www.svgrepo.com/download/452088/php.svg" height="40" alt="php logo"  />
 </div>
 
-###
-
 <h2 align="left">👨‍💻 Software skills</h2>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
@@ -86,11 +67,7 @@
   <img src="https://raw.githubusercontent.com/onlyymax/onlyymax/b3acd318f892db6edd22158f18fb0d8f3033fb91/arch%20linux.svg" height="40" alt="arch linux logo" />
 </div>
 
-###
-
 <h2 align="left">:bar_chart: GitHub Stats</h2>
-
-###
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=onlyymax&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="onlyymax" /></p>
 
