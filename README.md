@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onlyymax&label=Profile%20views&color=202020&style=flat" alt="onlyymax" /> </p>
 
-###
+
 
 <h4 align="left">I'm a 16-year-old student currently attending an Italian Technical High School (ITIS) and I have a strong passion for programming and computer science. To pursue this passion, I founded a computer science group aimed at sharing my knowledge and enthusiasm with like-minded individuals.<br><br>Thank you for taking the time to learn a little about me and my love for programming.<br><br>(I hate PHP)</h4>
 
