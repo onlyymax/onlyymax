@@ -13,14 +13,12 @@
 
 <h2 align="left">ℹ️ About me</h2>
 
-<p align="left">🌐 Founder of http://archisoft.it/<br>📍 Catania<br>📚 ITIS Archimede<br>💻 Developer Python/Kotlin<br>🐧 Linux User</p>
+<p align="left">🌐 Founder of http://archisoft.it/<br>📍 Catania<br>📚 ITIS Archimede<br>💻 Developer Python<br>🐧 Linux User</p>
 
 <h2 align="left">🖥️ Language skills</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
