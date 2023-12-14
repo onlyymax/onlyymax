@@ -13,7 +13,7 @@
 
 <h2 align="left">ℹ️ About me</h2>
 
-<p align="left">🌐 Founder of http://archisoft.it/<br>📍 Catania<br>📚 ITIS Archimede<br>💻 Developer Python<br>🐧 Linux User</p>
+<p align="left">🌐 Founder of http://archisoft.it/<br>📍 Catania<br>📚 ITIS Archimede<br>💻 Python Developer<br>🐧 Linux User</p>
 
 <h2 align="left">🖥️ Language skills</h2>
 
