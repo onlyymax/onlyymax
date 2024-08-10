@@ -3,17 +3,23 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onlyymax&label=Profile%20views&color=202020&style=flat" alt="onlyymax" /> </p>
 
 
-<h4 align="left">I'm a 16-year-old student currently attending an Italian Technical High School (ITIS) and I have a strong passion for programming and computer science. To pursue this passion, I founded a computer science group aimed at sharing my knowledge and enthusiasm with like-minded individuals.<br><br>Thank you for taking the time to learn a little about me and my love for programming.<br><br>(I hate PHP)</h4>
+<h4 align="left">
+I'm a 17-year-old student attending an Italian Technical High School (ITI) with a deep passion for programming and computer science. Driven by this enthusiasm, I founded a computer science group to share knowledge and connect with like-minded individuals.<br><br>
+
+My journey in tech is just beginning, and I'm excited to explore and grow in this field. I'm particularly interested in [you could mention 1-2 specific areas of interest here].<br><br>
+
+Thank you for taking the time to learn about my passion for programming. I look forward to the challenges and innovations that lie ahead in the world of technology.<br><br>
+
+(P.S. PHP and I don't see eye to eye!)
+</h4>
 
 <h2 align="left">🏠 My main projects</h2>
 
-<a href="https://github.com/ArchiSoft-it/MakiClient">Maki Client</a> - An Android client for Lemmy 
-
-<a href="LINK-LORY">Friday</a> - A personal assistant powered by artificial intelligence for managing home automation and computers, with the community able to develop plugins to extend its functions.
+<a href="link">Friday</a> - A personal assistant powered by artificial intelligence for managing home automation and computers, with the community able to develop plugins to extend its functions.
 
 <h2 align="left">ℹ️ About me</h2>
 
-<p align="left">🌐 Founder of http://archisoft.it/<br>📍 Catania<br>📚 ITIS Archimede<br>💻 Python Developer<br>🐧 Linux User</p>
+<p align="left">🌐 Founder of https://archisoft.it/<br>📍 Catania<br>📚 ITI Archimede<br>💻 Python Developer<br>🐧 Linux User</p>
 
 <h2 align="left">🖥️ Language skills</h2>
 
