@@ -6,7 +6,7 @@
 <h4 align="left">
 I'm a 17-year-old student attending an Italian Technical High School (ITI) with a deep passion for programming and computer science. Driven by this enthusiasm, I founded a computer science group to share knowledge and connect with like-minded individuals.<br><br>
 
-My journey in tech is just beginning, and I'm excited to explore and grow in this field. I'm particularly interested in [you could mention 1-2 specific areas of interest here].<br><br>
+My journey in tech is just beginning, and I'm excited to explore and grow in this field.<br><br>
 
 Thank you for taking the time to learn about my passion for programming. I look forward to the challenges and innovations that lie ahead in the world of technology.<br><br>
 
