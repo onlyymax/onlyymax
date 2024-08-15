@@ -19,7 +19,7 @@ Thank you for taking the time to learn about my passion for programming. I look 
 
 <h2 align="left">ℹ️ About me</h2>
 
-<p align="left">🌐 Founder of https://archisoft.it/<br>📍 Catania<br>📚 ITI Archimede<br>💻 Python Developer<br>🐧 Linux User</p>
+<p align="left">ciao</p>
 
 <h2 align="left">🖥️ Language/Framework skills</h2>
 <img src="https://skillicons.dev/icons?i=py,cpp,java,mysql,lua,php,flask,js,jquery,html,css,sass,tailwind"/>
