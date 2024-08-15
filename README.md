@@ -27,28 +27,6 @@ Thank you for taking the time to learn about my passion for programming. I look 
 <h2 align="left">👨‍💻 Software skills</h2>
 <img src="https://skillicons.dev/icons?i=vscode,vscodium,visualstudio,pycharm,idea,eclipse,androidstudio,robloxstudio,arduino,nginx,bash,git,github,gitlab,stackoverflow,linux,arch,raspberrypi,discord,bots,figma,autocad,blender,sketchup,ps"/>
 
-<div align="left">
-  <img width="12" />
-  <img width="12" />
-  <img width="12" />
-  <img width="12" />
-  <img width="12" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/475696/wordpress-color.svg" height="40" alt="wordpress logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="40" alt="inkscape logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/onlyymax/onlyymax/b3acd318f892db6edd22158f18fb0d8f3033fb91/arch%20linux.svg" height="40" alt="arch linux logo" />
-</div>
-
 <h2 align="left">:bar_chart: GitHub Stats</h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=onlyymax&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="onlyymax" /></p>
