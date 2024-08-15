@@ -15,7 +15,7 @@ have experience in various areas, including:
 - System Administration
 - Cloud Infrastructure Consulting
 - PCB Design and Creation
-- Microcontroller Programming with Arduino and ESP32
+- Microcontroller Programming with Arduino and ESP32 and microcomputer with RaspberryPi
 
 Thank you for your attention (P.S. PHP and I don't see eye to eye!)
 </h4>
