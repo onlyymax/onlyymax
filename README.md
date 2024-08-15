@@ -25,7 +25,7 @@ Thank you for taking the time to learn about my passion for programming. I look 
 <img src="https://skillicons.dev/icons?i=py,cpp,java,mysql,lua,php,flask,js,jquery,html,css,sass,tailwind"/>
 
 <h2 align="left">👨‍💻 Software skills</h2>
-<img src="https://skillicons.dev/icons?i=vscode,vscodium,visualstudio,pycharm,idea,eclipse,androidstudio,robloxstudio,arduino,nginx,bash,git,github,gitlab,stackoverflow,linux,arch,raspberrypi,discord,bots,figma,autocad,blender,sketchup,ps"/>
+<img src="https://skillicons.dev/icons?i=vscode,vscodium,visualstudio,pycharm,idea,eclipse,androidstudio,robloxstudio,arduino,nginx,bash,git,github,gitlab,stackoverflow,linux,arch,raspberrypi,discord,bots,figma,autocad,blender,sketchup,ps,ai"/>
 
 <h2 align="left">:bar_chart: GitHub Stats</h2>
 
