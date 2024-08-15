@@ -22,7 +22,7 @@ Thank you for taking the time to learn about my passion for programming. I look 
 <p align="left">🌐 Founder of https://archisoft.it/<br>📍 Catania<br>📚 ITI Archimede<br>💻 Python Developer<br>🐧 Linux User</p>
 
 <h2 align="left">🖥️ Language/Framework skills</h2>
-<img src="https://skillicons.dev/icons?i=py,,cpp,java,mysql,lua,php,js,flask,jquery,html,css,sass,tailwind"/>
+<img src="https://skillicons.dev/icons?i=py,cpp,java,mysql,lua,php,js,flask,jquery,html,css,sass,tailwind"/>
 
 <h2 align="left">👨‍💻 Software skills</h2>
 <img src="https://skillicons.dev/icons?i=vscode,vscodium,visualstudio,pycharm,idea,eclipse,androidstudio,robloxstudio,arduino,nginx,bash,git,github,gitlab,stackoverflow,linux,arch,raspberrypi,discord,bots,figma,autocad,blender,sketchup,ps"/>
