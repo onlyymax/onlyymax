@@ -24,10 +24,6 @@ Thank you for your attention (P.S. PHP and I don't see eye to eye!)
 
 <a href="link">Friday</a> - A personal assistant powered by artificial intelligence for managing home automation and computers, with the community able to develop plugins to extend its functions.
 
-<h2 align="left">ℹ️ About me</h2>
-
-<p align="left">ciao</p>
-
 <h2 align="left">🖥️ Language/Framework skills</h2>
 <img src="https://skillicons.dev/icons?i=py,cpp,java,mysql,lua,php,flask,js,jquery,html,css,sass,tailwind"/>
 
