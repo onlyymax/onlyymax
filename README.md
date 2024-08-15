@@ -23,9 +23,7 @@ Thank you for taking the time to learn about my passion for programming. I look 
 
 <h2 align="left">🖥️ Language skills</h2>
 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,java,sql,lua,php,js,html,css," />
-  </a>
+<img src="https://skillicons.dev/icons?i=py,cpp,java,mysql,lua,php,js,html,css"/>
   
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
