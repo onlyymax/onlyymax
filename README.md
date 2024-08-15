@@ -21,42 +21,18 @@ Thank you for taking the time to learn about my passion for programming. I look 
 
 <p align="left">🌐 Founder of https://archisoft.it/<br>📍 Catania<br>📚 ITI Archimede<br>💻 Python Developer<br>🐧 Linux User</p>
 
-<h2 align="left">🖥️ Language skills</h2>
-
-<img src="https://skillicons.dev/icons?i=py,cpp,java,mysql,lua,php,js,html,css"/>
-  
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/onlyymax/onlyymax/5c4bc95077fa185c8b2f13e63e15494eb1c6fc71/html-5-svgrepo-com.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://www.svgrepo.com/download/452088/php.svg" height="40" alt="php logo"  />
-</div>
+<h2 align="left">🖥️ Language/Framework skills</h2>
+<img src="https://skillicons.dev/icons?i=py,,cpp,java,mysql,lua,php,js,flask,jquery,html,css,sass,tailwind"/>
 
 <h2 align="left">👨‍💻 Software skills</h2>
+<img src="https://skillicons.dev/icons?i=vscode,vscodium,visualstudio,pycharm,idea,eclipse,androidstudio,robloxstudio,arduino,nginx,bash,git,github,gitlab,stackoverflow,linux,arch,raspberrypi,discord,bots,figma,autocad,blender,sketchup,ps"/>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/onlyymax/onlyymax/ed23c468709a3a8d1f9c8847875f10a7b0c965fb/intellij-idea-svgrepo-com.svg" height="40" alt="intellijidea logo" />
   <img width="12" />
-  <img src="https://www.svgrepo.com/show/353685/eclipse-icon.svg" height="40" alt="eclipseide logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
   <img width="12" />
