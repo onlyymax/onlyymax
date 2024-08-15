@@ -8,8 +8,16 @@ I am a 17-year-old student attending a Technical High School (ITI) in Italy, wit
 
 My journey in the world of technology has just begun, but I am motivated to grow and explore new opportunities in this field. I am eager to face future challenges and contribute to innovations that will make the digital world even more fascinating.<br><br>
 
-Thank you for your attention (P.S. PHP and I don't see eye to eye!)
+have experience in various areas, including:
+- Full-Stack Dev (software and web)
+- Desktop Application Dev
+- Mobile App Dev
+- System Administration
+- Cloud Infrastructure Consulting
+- PCB Design and Creation
+- Microcontroller Programming with Arduino and ESP32
 
+Thank you for your attention (P.S. PHP and I don't see eye to eye!)
 </h4>
 
 <h2 align="left">🏠 My main projects</h2>
