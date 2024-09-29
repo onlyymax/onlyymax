@@ -11,7 +11,7 @@ My journey in the world of technology has just begun, but I am motivated to grow
 have experience in various areas, including:
 - Full-Stack Dev (software and web)
 - Desktop Application Dev
-- Mobile App Dev
+- Mobile Application Dev
 - System Administration
 - Cloud Infrastructure Consulting
 - PCB Design and Creation
