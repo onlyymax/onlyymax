@@ -29,6 +29,8 @@ Thank you for your attention (P.S. PHP and I don't see eye to eye!)
 
 <h2 align="left">👨‍💻 Software skills</h2>
 <img src="https://skillicons.dev/icons?i=vscode,vscodium,visualstudio,pycharm,idea,eclipse,androidstudio,robloxstudio,arduino,nginx,bash,git,github,gitlab,stackoverflow,linux,arch,raspberrypi,discord,bots,figma,autocad,blender,sketchup,ps,ai"/>
+<img src="https://orcaslicer.net/wp-content/uploads/2024/06/cropped-orcaslicer-logo.png"/>
+
 
 <h2 align="left">:bar_chart: GitHub Stats</h2>
 
