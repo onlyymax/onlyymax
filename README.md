@@ -16,7 +16,7 @@ have experience in various areas, including:
 - Cloud Infrastructure Consulting
 - PCB Design and Creation
 - Microcontroller Programming with Arduino and ESP32 and microcomputer with RaspberryPi
-
+- 3D printing and using slicers
 Thank you for your attention (P.S. PHP and I don't see eye to eye!)
 </h4>
 
