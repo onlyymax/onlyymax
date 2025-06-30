@@ -27,6 +27,7 @@ Thank you for your attention!
 <h2 align="left">🏠 My main projects</h2>
 
 <a href="link">Friday</a> - A personal assistant powered by artificial intelligence for managing home automation and computers, with the community able to develop plugins to extend its functions.
+
 <a href="link">Safer</a> - An autonomous robot that detects workplace hazards and sends real-time alerts to enhance safety and reduce risks.
 
 <h2 align="left">🖥️ Language/Framework skills</h2>
