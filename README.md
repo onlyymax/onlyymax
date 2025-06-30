@@ -1,4 +1,4 @@
-<h1>👋 Heyoo I'm Max.</h1>
+<h1>👋 Ciao I'm Max.</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onlyymax&label=Profile%20views&color=202020&style=flat" alt="onlyymax" /> </p>
 
@@ -8,21 +8,26 @@ I am a 17-year-old student attending a Technical High School (ITI) in Italy, wit
 
 My journey in the world of technology has just begun, but I am motivated to grow and explore new opportunities in this field. I am eager to face future challenges and contribute to innovations that will make the digital world even more fascinating.<br><br>
 
-have experience in various areas, including:
-- Full-Stack Dev (software and web)
-- Desktop Application Dev
-- Mobile Application Dev
-- System Administration
-- Cloud Infrastructure Consulting
-- PCB Design and Creation
-- Microcontroller Programming with Arduino and ESP32 and microcomputer with RaspberryPi
-- 3D printing and using slicers
-Thank you for your attention (P.S. PHP and I don't see eye to eye!)
+I have experience across multiple domains, including:
+
+* Full-Stack Development (software and web)
+* Desktop Application Development
+* Mobile Application Development
+* System Administration
+* Cloud Infrastructure Consulting
+* PCB Design and Fabrication
+* Microcontroller Programming (Arduino, ESP32, STM32) and Single-Board Computer Management (Raspberry Pi)
+* 3D Printing and Slicer Software
+
+Thank you for your attention!
+(P.S. PHP and I don’t quite see eye to eye!)
+
 </h4>
 
 <h2 align="left">🏠 My main projects</h2>
 
 <a href="link">Friday</a> - A personal assistant powered by artificial intelligence for managing home automation and computers, with the community able to develop plugins to extend its functions.
+<a href="link">Safer</a> - An autonomous robot that detects workplace hazards and sends real-time alerts to enhance safety and reduce risks.
 
 <h2 align="left">🖥️ Language/Framework skills</h2>
 <img src="https://skillicons.dev/icons?i=py,cpp,java,mysql,lua,php,flask,js,jquery,html,css,sass,tailwind"/>
