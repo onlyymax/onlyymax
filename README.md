@@ -4,7 +4,7 @@
 
 
 <h4 align="left">
-I am a 17-year-old student attending a Technical High School (ITI) in Italy, with a strong passion for programming and computer science. This enthusiasm led me to found a computer science group to share knowledge and connect with others who have similar interests.<br><br>
+I am a 18-year-old student attending a Technical High School (ITI) in Italy, with a strong passion for programming and computer science. This enthusiasm led me to found a computer science group to share knowledge and connect with others who have similar interests.<br><br>
 
 My journey in the world of technology has just begun, but I am motivated to grow and explore new opportunities in this field. I am eager to face future challenges and contribute to innovations that will make the digital world even more fascinating.<br><br>
 
