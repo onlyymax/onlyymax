@@ -12,7 +12,6 @@ I have experience across multiple domains, including:
 
 * Full-Stack Development (software and web)
 * Desktop Application Development
-* Mobile Application Development
 * System Administration
 * Cloud Infrastructure Consulting
 * PCB Design and Fabrication
