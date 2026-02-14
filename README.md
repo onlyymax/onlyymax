@@ -30,7 +30,7 @@ Thank you for your attention!
 <a href="link">Safer</a> - An autonomous robot that detects workplace hazards and sends real-time alerts to enhance safety and reduce risks.
 
 <h2 align="left">🖥️ Language/Framework skills</h2>
-<img src="https://skillicons.dev/icons?i=py,cpp,java,mysql,lua,php,flask,js,jquery,html,css,sass,tailwind"/>
+<img src="https://skillicons.dev/icons?i=py,cpp,java,mysql,lua,php,flask,js,jquery,vue,html,css,sass,tailwind"/>
 
 <h2 align="left">👨‍💻 Software skills</h2>
 <img src="https://skillicons.dev/icons?i=vscode,vscodium,visualstudio,pycharm,idea,eclipse,androidstudio,robloxstudio,arduino,nginx,bash,git,github,gitlab,stackoverflow,linux,arch,raspberrypi,discord,bots,figma,autocad,blender,sketchup,ps,ai"/>
