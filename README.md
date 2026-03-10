@@ -55,7 +55,7 @@ An **autonomous robot** capable of **detecting workplace hazards** and sending *
 
 ---
 
-## 🛠 Software & Tools
+## 🔧 Software & Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=vscode,vscodium,visualstudio,pycharm,idea,eclipse,androidstudio,arduino,nginx,bash,git,github,gitlab,linux,fedora,raspberrypi,figma,autocad,blender,sketchup,ps,ai"/>
