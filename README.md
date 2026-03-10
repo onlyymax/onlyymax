@@ -38,14 +38,17 @@ Although my journey in tech is still at the beginning, I am constantly working t
 ## 🏠 Main Projects
 
 ### 🤖 Friday
-An **AI-powered personal assistant** designed to manage **home automation and computers**, with a plugin system that allows the community to extend its capabilities.
+AI personal assistant for **home automation and computer management**, designed with a **plugin system** to extend its capabilities.
 
 ### 🦺 Safer
-An **autonomous robot** capable of **detecting workplace hazards** and sending **real-time alerts** to improve safety and reduce risks.
+Autonomous robot that **detects workplace hazards** and sends **real-time safety alerts**.
 
----
+### 🚗 CRS Manager
+Management software for **car dealerships** to organize **vehicles, customers, and sales operations**.
 
 ## 🖥️ Languages & Frameworks
+
+---
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=py,cpp,java,mysql,lua,php,flask,js,jquery,vue,html,css,sass,tailwind"/>
