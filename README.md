@@ -1,42 +1,72 @@
-<h1>👋 Ciao I'm Max.</h1>
+<h1 align="center">👋 Hi, I'm Max</h1>
+<h3 align="center">Computer Science & Telecommunications Student | Developer | Tech Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=onlyymax&label=Profile%20views&color=202020&style=flat" alt="onlyymax" /> </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=onlyymax&label=Profile%20views&color=202020&style=flat" alt="onlyymax" />
+</p>
 
+---
 
-<h4 align="left">
-I am an 18-year-old student in my final year at a Technical Industrial Institute in Italy, specializing in Computer Science and Telecommunications. I have a strong passion for programming and technology, which inspired me to found a computer science group where I share knowledge and connect with peers who share similar interests.
+## 👨‍💻 About Me
 
-Although my journey in the tech world has only just begun, I am highly motivated to grow both personally and professionally. I am eager to take on new challenges, deepen my expertise, and contribute to innovative projects that make the digital world more dynamic and impactful.
+I am an **18-year-old student** in my final year at a **Technical Industrial Institute in Italy**, specializing in **Computer Science and Telecommunications**.
 
-I have experience across multiple domains, including:
+I am passionate about **programming, technology, and innovation**, and I founded a **computer science group** where I share knowledge and collaborate with people who share the same interests.
 
-* Full-Stack Development (software and web)
-* Desktop Application Development
-* System Administration
-* Cloud Infrastructure Consulting
-* PCB Design and Fabrication
-* Microcontroller Programming (Arduino, ESP32, STM32) and Single-Board Computer Management (Raspberry Pi)
-* 3D Printing and Slicer Software
+Even though my journey in tech has only just begun, I am constantly working to **improve my skills, learn new technologies, and contribute to meaningful projects**.
 
-Thank you for your attention!
-(P.S. PHP and I don’t quite see eye to eye!)
+---
 
-</h4>
+## 🚀 Areas of Interest
 
-<h2 align="left">🏠 My main projects</h2>
+- 💻 Full-Stack Development (Web & Software)
+- 🖥 Desktop Application Development
+- ⚙️ System Administration
+- ☁️ Cloud Infrastructure
+- 🔌 PCB Design & Fabrication
+- 🤖 Microcontroller Programming  
+  *(Arduino, ESP32, STM32)*
+- 🍓 Single Board Computers  
+  *(Raspberry Pi)*
+- 🖨 3D Printing & Slicer Software
 
-<a href="link">Friday</a> - A personal assistant powered by artificial intelligence for managing home automation and computers, with the community able to develop plugins to extend its functions.
+*(P.S. PHP and I don’t always get along 😅)*
 
-<a href="link">Safer</a> - An autonomous robot that detects workplace hazards and sends real-time alerts to enhance safety and reduce risks.
+---
 
-<h2 align="left">🖥️ Language/Framework skills</h2>
+## 🏠 Main Projects
+
+### 🤖 Friday
+An **AI-powered personal assistant** designed to manage **home automation and computers**.  
+The project supports **community-developed plugins** to extend its capabilities.
+
+### 🦺 Safer
+An **autonomous robot** capable of **detecting workplace hazards** and sending **real-time alerts** to improve safety and reduce risks.
+
+---
+
+## 🖥️ Languages & Frameworks
+
+<p>
 <img src="https://skillicons.dev/icons?i=py,cpp,java,mysql,lua,php,flask,js,jquery,vue,html,css,sass,tailwind"/>
+</p>
 
-<h2 align="left">👨‍💻 Software skills</h2>
-<img src="https://skillicons.dev/icons?i=vscode,vscodium,visualstudio,pycharm,idea,eclipse,androidstudio,robloxstudio,arduino,nginx,bash,git,github,gitlab,stackoverflow,linux,arch,raspberrypi,discord,bots,figma,autocad,blender,sketchup,ps,ai"/>
+---
 
-<h2 align="left">:bar_chart: GitHub Stats</h2>
+## 🛠 Software & Tools
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=onlyymax&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="onlyymax" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,vscodium,visualstudio,pycharm,idea,eclipse,androidstudio,arduino,nginx,bash,git,github,gitlab,linux,arch,raspberrypi,figma,autocad,blender,sketchup,ps,ai"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onlyymax&show_icons=true&theme=dark&hide_border=true&locale=en" alt="onlyymax" /></p>
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=onlyymax&show_icons=true&theme=dark&hide_border=true&layout=compact"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=onlyymax&show_icons=true&theme=dark&hide_border=true"/>
+</p>
