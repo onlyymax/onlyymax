@@ -19,8 +19,6 @@ Driven by my passion for technology, I also founded a **computer science group**
 
 Although my journey in tech is still at the beginning, I am constantly working to **expand my skills, explore new technologies, and develop projects that connect the digital and physical worlds**.
 
-*(P.S. PHP and I don’t always get along 😅)*
-
 ---
 
 ## 🚀 Areas of Interest
