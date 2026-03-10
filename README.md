@@ -60,15 +60,3 @@ An **autonomous robot** capable of **detecting workplace hazards** and sending *
 <p align="center">
 <img src="https://skillicons.dev/icons?i=vscode,vscodium,visualstudio,pycharm,idea,eclipse,androidstudio,arduino,nginx,bash,git,github,gitlab,linux,fedora,raspberrypi,figma,autocad,blender,sketchup,ps,ai"/>
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=onlyymax&show_icons=true&theme=dark&hide_border=true&layout=compact"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=onlyymax&show_icons=true&theme=dark&hide_border=true"/>
-</p>
