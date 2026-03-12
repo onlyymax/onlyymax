@@ -41,8 +41,8 @@ I'm still at the beginning of my journey, but I’m constantly focused on **impr
 An **AI-powered personal assistant** for **home automation and computer management**, built with a **plugin-based architecture** designed for future expansion.
 
 ### 🦺 Safer
-An **autonomous safety robot** designed to **detect workplace hazards** and provide **real-time alerts**.  
-The project won **1st place at ArchimedeLab 2025** and **1st place in the Technical Projects category** of the **ASP Catania 2025** competition on health and safety in the workplace.
+An **award-winning autonomous safety robot** designed to **detect workplace hazards** and deliver **real-time alerts**.  
+The project won **1st place at ArchimedeLab 2025** and **1st place in the Technical Projects category** of the **ASP Catania 2024–2025 competition “La Promozione della Salute e della Sicurezza nei Luoghi di Lavoro a partire dai Banchi di Scuola.”**
 
 ### 🚗 CRS Manager
 A **dealership management software** built to help organize **vehicles, customers, and sales operations** through a structured and efficient system.
