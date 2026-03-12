@@ -37,10 +37,7 @@ I'm still at the beginning of my journey, but I’m constantly focused on **impr
 
 ## 🏠 Main Projects
 
-### 🤖 Friday
-An **AI-powered personal assistant** for **home automation and computer management**, built with a **plugin-based architecture** designed for future expansion.
-
-### 🦺 Safer
+### 🤖 Safer
 An **award-winning autonomous safety robot** designed to **detect workplace hazards** and deliver **real-time alerts**.
 
 🏆 **1st place — _ArchimedeLab 2025_**  
@@ -49,6 +46,9 @@ An **award-winning autonomous safety robot** designed to **detect workplace haza
 
 ### 🚗 CRS Manager
 A **dealership management software** built to help organize **vehicles, customers, and sales operations** through a structured and efficient system.
+
+### 🤖 Friday
+An **AI-powered personal assistant** for **home automation and computer management**, built with a **plugin-based architecture** designed for future expansion.
 
 ---
 
