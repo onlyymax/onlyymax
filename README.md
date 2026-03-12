@@ -40,7 +40,7 @@ I'm still at the beginning of my journey, but I’m constantly focused on **impr
 ### 🤖 Safer
 An **award-winning autonomous safety robot** designed to **detect workplace hazards** and deliver **real-time alerts**.
 
-🏆 **1st place — _ArchimedeLab 2025_**  
+🏆 **1st place — _ArchimedeLab 2024–2025_**  
 🏆 **1st place, Technical Projects category — _ASP Catania 2024–2025_**  
 **Competition:** _“La Promozione della Salute e della Sicurezza nei Luoghi di Lavoro a partire dai Banchi di Scuola”_
 
