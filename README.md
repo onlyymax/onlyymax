@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-I'm an **18-year-old student from Catania, Italy**, currently in my final year at the **Technical Industrial Institute “Archimede”**, where I study **Computer Science and Telecommunications**.
+I'm an **18-year-old student from Catania, Italy**, currently in my final year at **I.T. Archimede, Catania**, where I study **Computer Science and Telecommunications**.
 
 I'm passionate about the connection between **software and hardware**. I enjoy building projects that combine **development, robotics, electronics, and automation**, ranging from backend systems to embedded devices and physical prototypes.
 
@@ -17,9 +17,7 @@ Alongside software development, I also work on **robotics and hardware-based pro
 
 My main development environment is **Fedora Linux**, which I use daily for programming, system administration, and experimentation.
 
-I also founded a **computer science group**, where I share knowledge, collaborate with others, and grow together with people who are equally passionate about technology.
-
-I'm still at the beginning of my journey, but I’m constantly focused on **improving my skills, exploring new technologies, and building projects that bridge the digital and physical world**.
+I'm still at the beginning of my journey, but I’m constantly focused on **improving my skills, exploring new technologies, and building projects that connect the digital and physical world**.
 
 ---
 
