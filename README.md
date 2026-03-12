@@ -17,7 +17,7 @@ Alongside software development, I also work on **robotics and hardware-based pro
 
 My main development environment is **Fedora Linux**, which I use daily for programming, system administration, and experimentation.
 
-I'm still at the beginning of my journey, but I’m constantly focused on **improving my skills, exploring new technologies, and building projects that connect the digital and physical world**.
+I'm still at the beginning of my journey, but I’m constantly focused on **improving my skills, exploring new technologies, and building projects that bridge the gap between the digital and physical world**.
 
 ---
 
@@ -38,10 +38,11 @@ I'm still at the beginning of my journey, but I’m constantly focused on **impr
 ## 🏠 Main Projects
 
 ### 🤖 Friday
-An **AI-powered personal assistant** for **home automation and computer management**, built with a **plugin-based architecture** to support future expansion.
+An **AI-powered personal assistant** for **home automation and computer management**, built with a **plugin-based architecture** designed for future expansion.
 
 ### 🦺 Safer
-An **autonomous safety robot** designed to **detect workplace hazards** and deliver **real-time alerts** to improve prevention and awareness.
+An **autonomous safety robot** designed to **detect workplace hazards** and provide **real-time alerts**.  
+The project won **1st place at ArchimedeLab 2025** and **1st place in the Technical Projects category** of the **ASP Catania 2025** competition on health and safety in the workplace.
 
 ### 🚗 CRS Manager
 A **dealership management software** built to help organize **vehicles, customers, and sales operations** through a structured and efficient system.
