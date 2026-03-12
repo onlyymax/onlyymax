@@ -47,7 +47,7 @@ An **award-winning autonomous safety robot** designed to **detect workplace haza
 ### 🚗 CRS Manager
 A **dealership management software** built to help organize **vehicles, customers, and sales operations** through a structured and efficient system.
 
-### 🤖 Friday
+### 💡 Friday
 An **AI-powered personal assistant** for **home automation and computer management**, built with a **plugin-based architecture** designed for future expansion.
 
 ---
