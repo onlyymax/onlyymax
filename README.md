@@ -2,30 +2,32 @@
 <h3 align="center">Computer Science & Telecommunications Student • Developer • Robotics Enthusiast</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=onlyymax&label=Profile%20views&color=202020&style=flat" alt="onlyymax" />
+  <img src="https://komarev.com/ghpvc/?username=onlyymax&label=Profile%20views&color=202020&style=flat" alt="onlyymax" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am an **18-year-old student from Catania, Italy**, currently in my final year at the **Technical Industrial Institute “Archimede”**, where I specialize in **Computer Science and Telecommunications**.
+I'm an **18-year-old student from Catania, Italy**, currently in my final year at the **Technical Industrial Institute “Archimede”**, where I study **Computer Science and Telecommunications**.
 
-My main interest lies in the intersection between **software and hardware**. I enjoy building projects that combine **programming, robotics, and electronics**, from backend systems to embedded devices and physical prototypes.
+I'm passionate about the connection between **software and hardware**. I enjoy building projects that combine **development, robotics, electronics, and automation**, ranging from backend systems to embedded devices and physical prototypes.
 
-Alongside software development, I design and build **robots and hardware projects**, often prototyping components using **3D printing with a Bambu Lab P1S Combo**. My daily development environment is **Fedora Linux**, where I work on most of my coding and system administration tasks.
+Alongside software development, I also work on **robotics and hardware-based projects**, often designing and prototyping components through **3D printing** with my **Bambu Lab P1S Combo**.
 
-Driven by my passion for technology, I also founded a **computer science group** where I share knowledge and collaborate with peers who have the same curiosity for building and experimenting.
+My main development environment is **Fedora Linux**, which I use daily for programming, system administration, and experimentation.
 
-Although my journey in tech is still at the beginning, I am constantly working to **expand my skills, explore new technologies, and develop projects that connect the digital and physical worlds**.
+I also founded a **computer science group**, where I share knowledge, collaborate with others, and grow together with people who are equally passionate about technology.
+
+I'm still at the beginning of my journey, but I’m constantly focused on **improving my skills, exploring new technologies, and building projects that bridge the digital and physical world**.
 
 ---
 
 ## 🚀 Areas of Interest
 
-- 💻 Full-Stack Development (software & web)
+- 💻 Full-Stack Development
 - 🖥 Desktop Application Development
-- ⚙️ System Administration & Linux
+- ⚙️ Linux & System Administration
 - ☁️ Cloud Infrastructure
 - 🤖 Robotics & Embedded Systems
 - 🔌 PCB Design & Electronics
@@ -38,20 +40,20 @@ Although my journey in tech is still at the beginning, I am constantly working t
 ## 🏠 Main Projects
 
 ### 🤖 Friday
-AI personal assistant for **home automation and computer management**, designed with a **plugin system** to extend its capabilities.
+An **AI-powered personal assistant** for **home automation and computer management**, built with a **plugin-based architecture** to support future expansion.
 
 ### 🦺 Safer
-Autonomous robot that **detects workplace hazards** and sends **real-time safety alerts**.
+An **autonomous safety robot** designed to **detect workplace hazards** and deliver **real-time alerts** to improve prevention and awareness.
 
 ### 🚗 CRS Manager
-Management software for **car dealerships** to organize **vehicles, customers, and sales operations**.
-
-## 🖥️ Languages & Frameworks
+A **dealership management software** built to help organize **vehicles, customers, and sales operations** through a structured and efficient system.
 
 ---
 
+## 🖥️ Languages & Frameworks
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=py,cpp,java,mysql,lua,php,flask,js,jquery,vue,html,css,sass,tailwind"/>
+  <img src="https://skillicons.dev/icons?i=py,cpp,java,mysql,lua,php,flask,js,jquery,vue,html,css,sass,tailwind" />
 </p>
 
 ---
@@ -59,5 +61,5 @@ Management software for **car dealerships** to organize **vehicles, customers, a
 ## 🔧 Software & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=vscode,vscodium,visualstudio,pycharm,idea,eclipse,androidstudio,arduino,nginx,bash,git,github,gitlab,linux,fedora,raspberrypi,figma,autocad,blender,sketchup,ps,ai"/>
+  <img src="https://skillicons.dev/icons?i=vscode,vscodium,visualstudio,pycharm,idea,eclipse,androidstudio,arduino,nginx,bash,git,github,gitlab,linux,fedora,raspberrypi,figma,autocad,blender,sketchup,ps,ai" />
 </p>
