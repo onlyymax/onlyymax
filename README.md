@@ -54,7 +54,7 @@ An **AI-powered personal assistant** for **home automation and computer manageme
 
 ## 🖥️ Languages & Frameworks
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=py,cpp,java,mysql,php,flask,js,vue,html,css,sass,tailwind" />
 </p>
 
@@ -62,6 +62,6 @@ An **AI-powered personal assistant** for **home automation and computer manageme
 
 ## 🔧 Software & Tools
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,vscodium,visualstudio,pycharm,idea,eclipse,androidstudio,arduino,nginx,bash,git,github,gitlab,linux,fedora,raspberrypi,figma,autocad,blender,sketchup,ps,ai" />
 </p>
