@@ -2,10 +2,6 @@
 <h3 align="center">Student • Developer • Robotics • 3D Printing</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=onlyymax&label=Profile%20views&color=202020&style=flat" alt="onlyymax" />
-</p>
-
-<p align="center">
 18-year-old student from <b>Catania, Italy</b>, currently in my final year at 
 <b>I.T. Archimede (Computer Science & Telecommunications)</b>.
 </p>
