@@ -26,14 +26,13 @@ My main interests are automation, Linux systems, electronics and practical probl
 
 ## 🚀 Areas of Interest
 
-- 💻 Full-Stack & Software Development  
-- 🖥 Desktop Application Development  
+- 💻 Full-Stack & Software Development
 - ⚙️ Linux Systems & System Administration  
 - 🤖 Robotics, Embedded Systems & Automation  
 - 🔌 Electronics, PCB Design & Prototyping  
 - 🧠 Microcontrollers (Arduino, ESP32, STM32)  
 - 🍓 Raspberry Pi & Single-Board Computing  
-- 🖨 3D Printing & Rapid Prototyping  
+- 🌋 3D Printing & Rapid Prototyping  
 
 ---
 
