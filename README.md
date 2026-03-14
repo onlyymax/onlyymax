@@ -126,5 +126,5 @@ Automation • System control • Extensible architecture
 ---
 
 <p align="center">
-⚡ Turning ideas into software, embedded systems and real-world prototypes
+⚡ Stay Safer with Safer
 </p>
