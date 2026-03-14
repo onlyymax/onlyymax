@@ -100,7 +100,7 @@ Automation • System control • Extensible architecture
 
 ---
 
-### 🛠 Tools & Development Environment
+### 🧰 Tools & Development Environment
 
 <p>
   <img src="https://img.shields.io/badge/Linux-202020?style=for-the-badge&logo=linux" />
