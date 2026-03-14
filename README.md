@@ -15,24 +15,21 @@ I'm an **18-year-old developer from Catania, Italy**, currently in the final yea
 I enjoy building projects where **software interacts with hardware**, combining  
 development, robotics, embedded systems and rapid prototyping.
 
-My goal is to create technology that is not only functional in code,  
+My goal is to build technology that is not only functional in code,  
 but **useful in real-world environments**.
 
-**Focus areas**
-
-- 🤖 Robotics & Embedded Systems  
-- 💻 Desktop & Software Development  
-- 🐧 Linux Systems & Automation  
-- 🔌 Electronics & Hardware Prototyping  
-- 🖨 Rapid prototyping with **3D printing**
-
-Daily environment: **Fedora Linux**
+- 🎓 Computer Science & Telecommunications — **I.T. Archimede (Catania)**
+- 🐧 Daily **Fedora Linux** user
+- 🤖 Interested in **robotics and embedded technologies**
+- ⚙️ Passionate about **automation and system experimentation**
+- 🖨 Hardware prototyping with **3D printing (Bambu Lab P1S Combo)**
 
 ---
 
 # 🚀 Featured Projects
 
-## 🤖 Safer
+### 🤖 Safer
+
 Autonomous **workplace safety robot** designed to detect environmental hazards and send **real-time alerts**.
 
 **Awards**
@@ -40,7 +37,7 @@ Autonomous **workplace safety robot** designed to detect environmental hazards a
 🏆 **1st Place — ArchimedeLab 2024–2025**  
 🏆 **1st Place (Technical Projects) — ASP Catania 2024–2025**
 
-Competition:
+Competition  
 *La Promozione della Salute e della Sicurezza nei Luoghi di Lavoro a partire dai Banchi di Scuola*
 
 **Tech**
@@ -49,12 +46,9 @@ Python • Arduino • Embedded Sensors
 
 ---
 
-## 🚗 CRS Manager
+### 🚗 CRS Manager
 
-Desktop **dealership management system** designed to manage  
-vehicles, customers and sales operations.
-
-Built with a **local-first architecture** and structured database.
+Desktop **dealership management system** built to organize vehicles, customers and sales operations.
 
 **Stack**
 
@@ -62,12 +56,10 @@ Electron • Vue • Vite • SQLite
 
 ---
 
-## 💡 Friday
+### 💡 Friday
 
-Experimental **AI-powered personal assistant** designed to automate  
-computer tasks and home systems.
-
-Focused on a **modular plugin architecture**.
+Experimental **AI-powered personal assistant** focused on automating  
+computer tasks and home systems through a **modular plugin architecture**.
 
 **Focus**
 
@@ -75,37 +67,48 @@ Automation • System control • Extensible architecture
 
 ---
 
-# 🧠 Technologies
+# 🛠 Tech Stack
 
-### Programming
+### Programming Languages
 
-Python • C++ • Java • JavaScript • PHP
-
-### Software Development
-
-Electron • Vue • Flask • Tailwind • Sass
-
-### Systems
-
-Linux • Fedora • Nginx • Git • GitHub • GitLab
-
-### Embedded & Hardware
-
-Arduino • ESP32 • STM32 • Raspberry Pi
+![Python](https://img.shields.io/badge/Python-202020?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/C%2B%2B-202020?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-202020?style=for-the-badge&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/JavaScript-202020?style=for-the-badge&logo=javascript)
+![PHP](https://img.shields.io/badge/PHP-202020?style=for-the-badge&logo=php)
 
 ---
 
-# ⚙️ Interests
+### Frameworks & Development
 
-- Robotics
-- Embedded technologies
-- Linux systems
-- Automation
-- Hardware experimentation
-- Rapid prototyping
+![Electron](https://img.shields.io/badge/Electron-202020?style=for-the-badge&logo=electron)
+![Vue](https://img.shields.io/badge/Vue-202020?style=for-the-badge&logo=vue.js)
+![Flask](https://img.shields.io/badge/Flask-202020?style=for-the-badge&logo=flask)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-202020?style=for-the-badge&logo=tailwindcss)
+![Sass](https://img.shields.io/badge/Sass-202020?style=for-the-badge&logo=sass)
+
+---
+
+### Systems & Infrastructure
+
+![Linux](https://img.shields.io/badge/Linux-202020?style=for-the-badge&logo=linux)
+![Fedora](https://img.shields.io/badge/Fedora-202020?style=for-the-badge&logo=fedora)
+![Nginx](https://img.shields.io/badge/Nginx-202020?style=for-the-badge&logo=nginx)
+![Git](https://img.shields.io/badge/Git-202020?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-202020?style=for-the-badge&logo=github)
+![GitLab](https://img.shields.io/badge/GitLab-202020?style=for-the-badge&logo=gitlab)
+
+---
+
+### Embedded & Hardware
+
+![Arduino](https://img.shields.io/badge/Arduino-202020?style=for-the-badge&logo=arduino)
+![ESP32](https://img.shields.io/badge/ESP32-202020?style=for-the-badge)
+![STM32](https://img.shields.io/badge/STM32-202020?style=for-the-badge)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-202020?style=for-the-badge&logo=raspberrypi)
 
 ---
 
 <p align="center">
-⚡ Building software, embedded systems and real-world technology
+⚡ Turning ideas into software, embedded systems and real-world prototypes
 </p>
