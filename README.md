@@ -72,15 +72,7 @@ An experimental **AI-powered personal assistant** focused on automating **home s
 
 ---
 
-## 📌 Currently
-
-- Building desktop and automation projects
-- Improving my skills in Linux systems, Electron and embedded development
-- Experimenting with robotics, sensors and rapid prototyping
-
----
-
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
 
