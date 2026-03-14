@@ -116,22 +116,6 @@ Automation • System Control • Modular Architecture
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=onlyymax&show_icons=true&theme=dark"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlyymax&layout=compact&theme=dark"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=onlyymax&theme=github-dark"/>
-</p>
-
----
-
 <p align="center">
 ⚡ Turning ideas into software, robots and real-world systems.
 </p>
