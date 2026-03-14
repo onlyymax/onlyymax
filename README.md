@@ -5,19 +5,25 @@
   <img src="https://komarev.com/ghpvc/?username=onlyymax&label=Profile%20views&color=202020&style=flat" alt="onlyymax" />
 </p>
 
+<p align="center">
+Student developer from <b>Catania, Italy</b> passionate about building projects that connect 
+<b>software, hardware and automation</b>.
+</p>
+
+<p align="center">
+I enjoy creating <b>desktop applications, robotics systems and Linux tools</b>, combining
+development, electronics and rapid prototyping.
+</p>
+
 ---
 
 ## 👨‍💻 About Me
 
-I'm an **18-year-old student from Catania, Italy**, currently in my final year at **I.T. Archimede, Catania**, where I study **Computer Science and Telecommunications**.
-
-I'm passionate about the connection between **software and hardware**. I enjoy building projects that combine **development, robotics, electronics, and automation**, ranging from backend systems to embedded devices and physical prototypes.
-
-Alongside software development, I also work on **robotics and hardware-based projects**, often designing and prototyping components through **3D printing** with my **Bambu Lab P1S Combo**.
-
-My main development environment is **Fedora Linux**, which I use daily for programming, system administration, and experimentation.
-
-I'm still at the beginning of my journey, but I’m constantly focused on **improving my skills, exploring new technologies, and building projects that bridge the gap between the digital and physical world**.
+- 🎓 Computer Science & Telecommunications student at **I.T. Archimede – Catania**
+- 💻 Interested in **software development, robotics and embedded systems**
+- 🐧 Daily **Fedora Linux** user
+- ⚙️ Passionate about **automation, electronics and system experimentation**
+- 🖨 I design and prototype hardware with **3D printing (Bambu Lab P1S Combo)**
 
 ---
 
@@ -47,29 +53,25 @@ An **award-winning autonomous safety robot** designed to **detect workplace haza
 Competition:  
 **“La Promozione della Salute e della Sicurezza nei Luoghi di Lavoro a partire dai Banchi di Scuola”**
 
-Technologies:
+Technologies:  
 Python • Arduino • Sensors • Embedded Systems
 
 ---
 
 ### 🚗 CRS Manager
 
-A **dealership management software** designed to manage **vehicles, customers and sales operations** through a structured and efficient system.
+A **dealership management software** built to organize **vehicles, customers and sales operations** through a structured system.
 
-Technologies:
-
+Technologies:  
 Electron • Vue • Vite • SQLite
 
 ---
 
 ### 💡 Friday
 
-An **AI-powered personal assistant** designed for **home automation and computer management**.
+An **AI-powered personal assistant** for **home automation and computer management**, built with a **plugin-based architecture** designed for future expansion.
 
-Built with a **plugin-based architecture** to allow modular expansion and integration with new systems.
-
-Focus:
-
+Focus:  
 Automation • System Control • Modular Architecture
 
 ---
