@@ -90,7 +90,7 @@ Automation • System control • Extensible architecture
 
 ---
 
-### 🗄 Databases
+### 🗃️ Databases
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-202020?style=for-the-badge&logo=mysql" />
