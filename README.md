@@ -17,11 +17,11 @@ development, robotics, embedded systems and rapid prototyping.
 My goal is to build technology that is not only functional in code,  
 but **useful in real-world environments**.
 
-- 🎓 Computer Science & Telecommunications — **I.T. Archimede (Catania)**
+- 🏫 Computer Science & Telecommunications — **I.T. Archimede (Catania)**
+- 💻 **Software developer** interested in building real-world projects
 - 🐧 Daily **Fedora Linux** user
 - 🤖 Interested in **robotics and embedded technologies**
-- ⚙️ Passionate about **automation and system experimentation**
-- 🖨 Hardware prototyping with **3D printing (Bambu Lab P1S Combo)**
+- 🌋 **3D printing** with my **Bambu Lab P1S Combo**
 
 ---
 
