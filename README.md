@@ -1,131 +1,137 @@
-<h1 align="center">Hi, I'm Nicolò 👋</h1>
+<h1 align="center">👋 Hi, I'm Max</h1>
+<h3 align="center">Student • Developer • Robotics • 3D Printing</h3>
 
 <p align="center">
-Developer • Linux • Robotics • Embedded Systems
+18-year-old student from <b>Catania, Italy</b>, currently in my final year at 
+<b>I.T. Archimede (Computer Science & Telecommunications)</b>.
 </p>
 
 <p align="center">
-Student from <b>Catania, Italy</b> building projects that combine  
-<b>software, hardware and automation</b>.
+I build projects that combine <b>software, hardware and automation</b>.
+</p>
+
+<p align="center">
+Interested in <b>robotics, desktop software, Linux systems and rapid prototyping</b>.
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-🎓 Computer Science & Telecommunications student at **I.T. Archimede – Catania**
-
-💻 Developer passionate about building real-world projects that connect
-software, electronics and automation.
-
-🐧 Linux enthusiast and open-source supporter.
-
-🤖 Interested in **robotics, embedded systems, desktop applications and automation**.
-
-⚙️ Passionate about **3D printing and rapid prototyping**.
+- 🎓 Computer Science & Telecommunications student at **I.T. Archimede – Catania**
+- 💻 Interested in **software development, robotics and embedded systems**
+- 🐧 Daily **Fedora Linux** user
+- ⚙️ Passionate about **automation, electronics and system experimentation**
+- 🖨 Hardware prototyping with **3D printing (Bambu Lab P1S Combo)**
 
 ---
 
-# 🛠 Tech Stack
+## 🚀 Areas of Interest
+
+- 💻 Full-Stack Development  
+- 🖥 Desktop Application Development  
+- ⚙️ Linux & System Administration  
+- 🤖 Robotics & Embedded Systems  
+- 🔌 Electronics & PCB Design  
+- 🧠 Microcontroller Programming (Arduino, ESP32, STM32)  
+- 🍓 Single-Board Computers (Raspberry Pi)  
+- 🖨 3D Printing & Rapid Prototyping  
+
+---
+
+## 🚀 Main Projects
+
+### 🤖 Safer
+
+An **award-winning autonomous safety robot** designed to detect workplace hazards and deliver **real-time alerts using environmental sensors and embedded systems**.
+
+🏆 **1st place — ArchimedeLab 2024–2025**  
+🏆 **1st place, Technical Projects category — ASP Catania 2024–2025**
+
+Competition:  
+**“La Promozione della Salute e della Sicurezza nei Luoghi di Lavoro a partire dai Banchi di Scuola”**
+
+Technologies:  
+Python • Arduino • Sensors • Embedded Systems
+
+---
+
+### 🚗 CRS Manager
+
+A **desktop dealership management system** designed to organize **vehicles, customers and sales operations** through a structured and efficient interface.
+
+Technologies:  
+Electron • Vue • Vite • SQLite
+
+---
+
+### 💡 Friday
+
+An experimental **AI-powered personal assistant** designed to automate **home systems and computer tasks** through a modular **plugin-based architecture**.
+
+Focus:  
+Automation • System Control • Modular Architecture
+
+---
+
+## 🛠 Tech Stack
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-202020?style=for-the-badge\&logo=python)
-![C++](https://img.shields.io/badge/C++-202020?style=for-the-badge\&logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/JavaScript-202020?style=for-the-badge\&logo=javascript)
+![Python](https://img.shields.io/badge/Python-202020?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/C++-202020?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-202020?style=for-the-badge&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/JavaScript-202020?style=for-the-badge&logo=javascript)
+![PHP](https://img.shields.io/badge/PHP-202020?style=for-the-badge&logo=php)
 
-### Development
+---
 
-![NodeJS](https://img.shields.io/badge/Node.js-202020?style=for-the-badge\&logo=node.js)
-![Electron](https://img.shields.io/badge/Electron-202020?style=for-the-badge\&logo=electron)
-![Vue](https://img.shields.io/badge/Vue-202020?style=for-the-badge\&logo=vue.js)
-![Vite](https://img.shields.io/badge/Vite-202020?style=for-the-badge\&logo=vite)
+### Frameworks & Development
 
-### Embedded / Hardware
+![Electron](https://img.shields.io/badge/Electron-202020?style=for-the-badge&logo=electron)
+![Vue](https://img.shields.io/badge/Vue-202020?style=for-the-badge&logo=vue.js)
+![Flask](https://img.shields.io/badge/Flask-202020?style=for-the-badge&logo=flask)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-202020?style=for-the-badge&logo=tailwindcss)
+![SASS](https://img.shields.io/badge/SASS-202020?style=for-the-badge&logo=sass)
 
-![Arduino](https://img.shields.io/badge/Arduino-202020?style=for-the-badge\&logo=arduino)
+---
+
+### Systems & Infrastructure
+
+![Linux](https://img.shields.io/badge/Linux-202020?style=for-the-badge&logo=linux)
+![Fedora](https://img.shields.io/badge/Fedora-202020?style=for-the-badge&logo=fedora)
+![NGINX](https://img.shields.io/badge/Nginx-202020?style=for-the-badge&logo=nginx)
+![Git](https://img.shields.io/badge/Git-202020?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-202020?style=for-the-badge&logo=github)
+![GitLab](https://img.shields.io/badge/GitLab-202020?style=for-the-badge&logo=gitlab)
+
+---
+
+### Hardware & Embedded
+
+![Arduino](https://img.shields.io/badge/Arduino-202020?style=for-the-badge&logo=arduino)
 ![ESP32](https://img.shields.io/badge/ESP32-202020?style=for-the-badge)
-![RaspberryPi](https://img.shields.io/badge/RaspberryPi-202020?style=for-the-badge\&logo=raspberrypi)
-
-### Systems
-
-![Linux](https://img.shields.io/badge/Linux-202020?style=for-the-badge\&logo=linux)
-![Git](https://img.shields.io/badge/Git-202020?style=for-the-badge\&logo=git)
-![SQLite](https://img.shields.io/badge/SQLite-202020?style=for-the-badge\&logo=sqlite)
+![STM32](https://img.shields.io/badge/STM32-202020?style=for-the-badge)
+![RaspberryPi](https://img.shields.io/badge/RaspberryPi-202020?style=for-the-badge&logo=raspberrypi)
 
 ---
 
-# 🚀 Highlighted Projects
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=onlyymax&repo=SAFERhackersgen&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=onlyymax&repo=CRS-Manager&theme=tokyonight"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=onlyymax&show_icons=true&theme=dark"/>
 </p>
 
 <p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlyymax&layout=compact&theme=dark"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=onlyymax&repo=Friday&theme=tokyonight"/>
-
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=onlyymax&theme=github-dark"/>
 </p>
 
 ---
 
-# 🧠 Currently Working On
-
-• desktop applications with **Electron + Vue**
-• robotics and embedded systems
-• Linux tools and automation
-• personal developer tools
-
----
-
-# 🏆 Awards
-
-🥇 **ArchimedeLab** — Technology / Robotics Competition
-
-🏅 **ASP Innovation Competition** — Student Technology Project
-
----
-
-# 📊 GitHub Stats
-
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=onlyymax&show_icons=true&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlyymax&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=onlyymax&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 📫 Contact
-
-🌍 Catania, Italy
-
-💻 GitHub: https://github.com/onlyymax
-
----
-
-<p align="center">
-
-⚡ Building software, robotics systems and developer tools.
-
+⚡ Turning ideas into software, robots and real-world systems.
 </p>
