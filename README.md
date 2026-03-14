@@ -6,13 +6,16 @@
 </p>
 
 <p align="center">
-Student developer from <b>Catania, Italy</b> passionate about building projects that connect 
-<b>software, hardware and automation</b>.
+18-year-old student from <b>Catania, Italy</b>, currently in my final year at 
+<b>I.T. Archimede (Computer Science & Telecommunications)</b>.
 </p>
 
 <p align="center">
-I enjoy creating <b>desktop applications, robotics systems and Linux tools</b>, combining
-development, electronics and rapid prototyping.
+I build projects that combine <b>software, hardware and automation</b>.
+</p>
+
+<p align="center">
+Interested in <b>robotics, desktop software, Linux systems and rapid prototyping</b>.
 </p>
 
 ---
@@ -23,7 +26,7 @@ development, electronics and rapid prototyping.
 - 💻 Interested in **software development, robotics and embedded systems**
 - 🐧 Daily **Fedora Linux** user
 - ⚙️ Passionate about **automation, electronics and system experimentation**
-- 🖨 I design and prototype hardware with **3D printing (Bambu Lab P1S Combo)**
+- 🖨 Hardware prototyping with **3D printing (Bambu Lab P1S Combo)**
 
 ---
 
@@ -32,20 +35,19 @@ development, electronics and rapid prototyping.
 - 💻 Full-Stack Development  
 - 🖥 Desktop Application Development  
 - ⚙️ Linux & System Administration  
-- ☁️ Cloud Infrastructure  
 - 🤖 Robotics & Embedded Systems  
-- 🔌 PCB Design & Electronics  
+- 🔌 Electronics & PCB Design  
 - 🧠 Microcontroller Programming (Arduino, ESP32, STM32)  
 - 🍓 Single-Board Computers (Raspberry Pi)  
 - 🖨 3D Printing & Rapid Prototyping  
 
 ---
 
-# 🚀 Main Projects
+## 🚀 Main Projects
 
 ### 🤖 Safer
 
-An **award-winning autonomous safety robot** designed to **detect workplace hazards** and deliver **real-time alerts**.
+An **award-winning autonomous safety robot** designed to detect workplace hazards and deliver **real-time alerts using environmental sensors and embedded systems**.
 
 🏆 **1st place — ArchimedeLab 2024–2025**  
 🏆 **1st place, Technical Projects category — ASP Catania 2024–2025**
@@ -60,7 +62,7 @@ Python • Arduino • Sensors • Embedded Systems
 
 ### 🚗 CRS Manager
 
-A **dealership management software** built to organize **vehicles, customers and sales operations** through a structured system.
+A **desktop dealership management system** designed to organize **vehicles, customers and sales operations** through a structured and efficient interface.
 
 Technologies:  
 Electron • Vue • Vite • SQLite
@@ -69,14 +71,14 @@ Electron • Vue • Vite • SQLite
 
 ### 💡 Friday
 
-An **AI-powered personal assistant** for **home automation and computer management**, built with a **plugin-based architecture** designed for future expansion.
+An experimental **AI-powered personal assistant** designed to automate **home systems and computer tasks** through a modular **plugin-based architecture**.
 
 Focus:  
 Automation • System Control • Modular Architecture
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
 ### Languages
 
@@ -90,6 +92,7 @@ Automation • System Control • Modular Architecture
 
 ### Frameworks & Development
 
+![Electron](https://img.shields.io/badge/Electron-202020?style=for-the-badge&logo=electron)
 ![Vue](https://img.shields.io/badge/Vue-202020?style=for-the-badge&logo=vue.js)
 ![Flask](https://img.shields.io/badge/Flask-202020?style=for-the-badge&logo=flask)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-202020?style=for-the-badge&logo=tailwindcss)
@@ -117,7 +120,7 @@ Automation • System Control • Modular Architecture
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=onlyymax&show_icons=true&theme=dark"/>
@@ -127,8 +130,12 @@ Automation • System Control • Modular Architecture
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlyymax&layout=compact&theme=dark"/>
 </p>
 
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=onlyymax&theme=github-dark"/>
+</p>
+
 ---
 
 <p align="center">
-⚡ Building software, robotics systems and hardware projects — one idea at a time.
+⚡ Turning ideas into software, robots and real-world systems.
 </p>
