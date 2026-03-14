@@ -34,10 +34,7 @@ Autonomous **workplace safety robot** designed to detect environmental hazards a
 **Awards**
 
 🏆 **1st Place — ArchimedeLab 2024–2025**  
-🏆 **1st Place (Technical Projects) — ASP Catania 2024–2025**
-
-Competition  
-*La Promozione della Salute e della Sicurezza nei Luoghi di Lavoro a partire dai Banchi di Scuola*
+🏆 **1st Place — ASP Catania 2024–2025** *La Promozione della Salute e della Sicurezza nei Luoghi di Lavoro a partire dai Banchi di Scuola*
 
 **Tech**
 
