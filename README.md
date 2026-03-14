@@ -63,7 +63,7 @@ Automation • System control • Extensible architecture
 
 ---
 
-# 🛠 Tech Stack
+# ⚙️ Tech Stack
 
 ### Programming Languages
 
