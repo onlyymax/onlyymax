@@ -1,119 +1,111 @@
-<h1 align="center">👋 Hi, I'm Max</h1>
-<h3 align="center">Building software, robotics and embedded systems from Catania, Italy</h3>
+<h1 align="center">Hi, I'm Max 👋</h1>
 
 <p align="center">
-18-year-old student from <b>Catania, Italy</b>, currently in the final year of 
-<b>Computer Science & Telecommunications</b> at <b>I.T. Archimede</b>.<br>
-I build projects that combine <b>software, hardware, automation and rapid prototyping</b>, 
-with a strong interest in <b>robotics, desktop software, Linux systems and embedded technologies</b>.
+Developer focused on <b>software, robotics and embedded systems</b><br>
+Building technology where <b>code meets the physical world</b>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I enjoy building projects where software meets hardware — from desktop applications and backend logic to robotics, embedded systems and physical prototypes.
+I'm an **18-year-old developer from Catania, Italy**, currently in the final year of  
+**Computer Science & Telecommunications** at **I.T. Archimede**.
 
-My main interests are automation, Linux systems, electronics and practical problem-solving through technology. I like creating projects that are not only functional in code, but also useful in the real world.
+I enjoy building projects where **software interacts with hardware**, combining  
+development, robotics, embedded systems and rapid prototyping.
 
-- 🎓 Final-year **Computer Science & Telecommunications** student at **I.T. Archimede – Catania**
-- 💻 Interested in **software development, robotics and embedded systems**
-- 🐧 Daily **Fedora Linux** user
-- ⚙️ Passionate about **automation, electronics and system experimentation**
-- 🖨 Working on hardware prototypes with **3D printing (Bambu Lab P1S Combo)**
+My goal is to create technology that is not only functional in code,  
+but **useful in real-world environments**.
 
----
+**Focus areas**
 
-## 🚀 Areas of Interest
+- 🤖 Robotics & Embedded Systems  
+- 💻 Desktop & Software Development  
+- 🐧 Linux Systems & Automation  
+- 🔌 Electronics & Hardware Prototyping  
+- 🖨 Rapid prototyping with **3D printing**
 
-- 💻 Full-Stack & Software Development
-- ⚙️ Linux Systems & System Administration  
-- 🤖 Robotics, Embedded Systems & Automation  
-- 🔌 Electronics, PCB Design & Prototyping  
-- 🧠 Microcontrollers (Arduino, ESP32, STM32)  
-- 🍓 Raspberry Pi & Single-Board Computing  
-- 🌋 3D Printing & Rapid Prototyping  
+Daily environment: **Fedora Linux**
 
 ---
 
-## 🚀 Main Projects
+# 🚀 Featured Projects
 
-### 🤖 Safer
-
-An **autonomous safety robot** designed to detect workplace hazards and deliver **real-time alerts** through environmental sensors and embedded systems.
+## 🤖 Safer
+Autonomous **workplace safety robot** designed to detect environmental hazards and send **real-time alerts**.
 
 **Awards**
-- 🏆 **1st Place — ArchimedeLab 2024–2025**
-- 🏆 **1st Place, Technical Projects Category — ASP Catania 2024–2025**
 
-**Competition**
-- *La Promozione della Salute e della Sicurezza nei Luoghi di Lavoro a partire dai Banchi di Scuola*
+🏆 **1st Place — ArchimedeLab 2024–2025**  
+🏆 **1st Place (Technical Projects) — ASP Catania 2024–2025**
+
+Competition:
+*La Promozione della Salute e della Sicurezza nei Luoghi di Lavoro a partire dai Banchi di Scuola*
 
 **Tech**
-- Python • Arduino • Sensors • Embedded Systems
+
+Python • Arduino • Embedded Sensors
 
 ---
 
-### 🚗 CRS Manager
+## 🚗 CRS Manager
 
-A **desktop dealership management system** built to organize **vehicles, customers and sales workflows** through a structured interface and local database architecture.
+Desktop **dealership management system** designed to manage  
+vehicles, customers and sales operations.
 
-**Tech**
-- Electron • Vue • Vite • SQLite
+Built with a **local-first architecture** and structured database.
+
+**Stack**
+
+Electron • Vue • Vite • SQLite
 
 ---
 
-### 💡 Friday
+## 💡 Friday
 
-An experimental **AI-powered personal assistant** focused on automating **home systems and computer tasks** through a modular **plugin-based architecture**.
+Experimental **AI-powered personal assistant** designed to automate  
+computer tasks and home systems.
+
+Focused on a **modular plugin architecture**.
 
 **Focus**
-- Automation • System Control • Modular Architecture
+
+Automation • System control • Extensible architecture
 
 ---
 
-## 🛠️ Tech Stack
+# 🧠 Technologies
 
-### Languages
+### Programming
 
-![Python](https://img.shields.io/badge/Python-202020?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C%2B%2B-202020?style=for-the-badge&logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-202020?style=for-the-badge&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/JavaScript-202020?style=for-the-badge&logo=javascript)
-![PHP](https://img.shields.io/badge/PHP-202020?style=for-the-badge&logo=php)
+Python • C++ • Java • JavaScript • PHP
 
----
+### Software Development
 
-### Frameworks & Development
+Electron • Vue • Flask • Tailwind • Sass
 
-![Electron](https://img.shields.io/badge/Electron-202020?style=for-the-badge&logo=electron)
-![Vue](https://img.shields.io/badge/Vue-202020?style=for-the-badge&logo=vue.js)
-![Flask](https://img.shields.io/badge/Flask-202020?style=for-the-badge&logo=flask)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-202020?style=for-the-badge&logo=tailwindcss)
-![Sass](https://img.shields.io/badge/Sass-202020?style=for-the-badge&logo=sass)
+### Systems
+
+Linux • Fedora • Nginx • Git • GitHub • GitLab
+
+### Embedded & Hardware
+
+Arduino • ESP32 • STM32 • Raspberry Pi
 
 ---
 
-### Systems & Infrastructure
+# ⚙️ Interests
 
-![Linux](https://img.shields.io/badge/Linux-202020?style=for-the-badge&logo=linux)
-![Fedora](https://img.shields.io/badge/Fedora-202020?style=for-the-badge&logo=fedora)
-![Nginx](https://img.shields.io/badge/Nginx-202020?style=for-the-badge&logo=nginx)
-![Git](https://img.shields.io/badge/Git-202020?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-202020?style=for-the-badge&logo=github)
-![GitLab](https://img.shields.io/badge/GitLab-202020?style=for-the-badge&logo=gitlab)
-
----
-
-### Hardware & Embedded
-
-![Arduino](https://img.shields.io/badge/Arduino-202020?style=for-the-badge&logo=arduino)
-![ESP32](https://img.shields.io/badge/ESP32-202020?style=for-the-badge)
-![STM32](https://img.shields.io/badge/STM32-202020?style=for-the-badge)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-202020?style=for-the-badge&logo=raspberrypi)
+- Robotics
+- Embedded technologies
+- Linux systems
+- Automation
+- Hardware experimentation
+- Rapid prototyping
 
 ---
 
 <p align="center">
-⚡ Turning ideas into software, embedded systems and real-world prototypes.
+⚡ Building software, embedded systems and real-world technology
 </p>
