@@ -1,136 +1,102 @@
-<h1 align="center">Hi, I'm Nicolò 👋</h1>
+<h1 align="center">👋 Hi, I'm Max</h1>
+<h3 align="center">Computer Science & Telecommunications Student • Developer • Robotics Enthusiast</h3>
 
 <p align="center">
-Developer • Linux • Robotics • Embedded Systems
-</p>
-
-<p align="center">
-Student from <b>Catania, Italy</b> passionate about building projects that connect 
-<b>software, hardware and automation</b>.
-</p>
-
-<p align="center">
-I enjoy creating <b>desktop applications, robotics systems and Linux tools</b>, combining
-development, electronics and rapid prototyping.
+  <img src="https://komarev.com/ghpvc/?username=onlyymax&label=Profile%20views&color=202020&style=flat" alt="onlyymax" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science & Telecommunications student at **I.T. Archimede – Catania**
-- 🐧 Linux enthusiast and open-source supporter
-- 🤖 Interested in **robotics, embedded systems and automation**
-- ⚙️ Passionate about **3D printing and rapid prototyping**
-- 🧠 Building projects that integrate **software and hardware**
+I'm an **18-year-old student from Catania, Italy**, currently in my final year at **I.T. Archimede, Catania**, where I study **Computer Science and Telecommunications**.
+
+I'm passionate about the connection between **software and hardware**. I enjoy building projects that combine **development, robotics, electronics, and automation**, ranging from backend systems to embedded devices and physical prototypes.
+
+Alongside software development, I also work on **robotics and hardware-based projects**, often designing and prototyping components through **3D printing** with my **Bambu Lab P1S Combo**.
+
+My main development environment is **Fedora Linux**, which I use daily for programming, system administration, and experimentation.
+
+I'm still at the beginning of my journey, but I’m constantly focused on **improving my skills, exploring new technologies, and building projects that bridge the gap between the digital and physical world**.
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Areas of Interest
 
-### Languages
-
-![Python](https://img.shields.io/badge/Python-202020?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-202020?style=for-the-badge&logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/JavaScript-202020?style=for-the-badge&logo=javascript)
-
-### Development
-
-![NodeJS](https://img.shields.io/badge/Node.js-202020?style=for-the-badge&logo=node.js)
-![Electron](https://img.shields.io/badge/Electron-202020?style=for-the-badge&logo=electron)
-![Vue](https://img.shields.io/badge/Vue-202020?style=for-the-badge&logo=vue.js)
-![Vite](https://img.shields.io/badge/Vite-202020?style=for-the-badge&logo=vite)
-
-### Hardware / Embedded
-
-![Arduino](https://img.shields.io/badge/Arduino-202020?style=for-the-badge&logo=arduino)
-![ESP32](https://img.shields.io/badge/ESP32-202020?style=for-the-badge)
-![RaspberryPi](https://img.shields.io/badge/RaspberryPi-202020?style=for-the-badge&logo=raspberrypi)
-
-### Systems
-
-![Linux](https://img.shields.io/badge/Linux-202020?style=for-the-badge&logo=linux)
-![Git](https://img.shields.io/badge/Git-202020?style=for-the-badge&logo=git)
-![SQLite](https://img.shields.io/badge/SQLite-202020?style=for-the-badge&logo=sqlite)
+- 💻 Full-Stack Development  
+- 🖥 Desktop Application Development  
+- ⚙️ Linux & System Administration  
+- ☁️ Cloud Infrastructure  
+- 🤖 Robotics & Embedded Systems  
+- 🔌 PCB Design & Electronics  
+- 🧠 Microcontroller Programming (Arduino, ESP32, STM32)  
+- 🍓 Single-Board Computers (Raspberry Pi)  
+- 🖨 3D Printing & Rapid Prototyping  
 
 ---
 
-## 🚀 Highlighted Projects
+## 🏠 Main Projects
 
 ### 🤖 Safer
+An **award-winning autonomous safety robot** designed to **detect workplace hazards** and deliver **real-time alerts**.
 
-Autonomous robot designed to detect dangerous situations in workplaces.
+🏆 **1st place — _ArchimedeLab 2024–2025_**  
+🏆 **1st place, Technical Projects category — _ASP Catania 2024–2025_**  
 
-**Features**
-
-- Environmental monitoring
-- Hazard detection
-- Real-time alerts
-- Hardware + software integration
-
-**Technologies**
-
-Python • Arduino • Sensors • Embedded systems
+**Competition:**  
+_La Promozione della Salute e della Sicurezza nei Luoghi di Lavoro a partire dai Banchi di Scuola_
 
 ---
 
-### 📦 CRS Manager
-
-Desktop management software built with modern web technologies.
-
-**Features**
-
-- Structured data management
-- Fast and lightweight interface
-- Cross-platform architecture
-
-**Technologies**
-
-Electron • Vue • Vite • SQLite
+### 🚗 CRS Manager
+A **dealership management software** built to help organize **vehicles, customers, and sales operations** through a structured and efficient system.
 
 ---
 
-### 🤖 Friday
-
-Experimental AI assistant and automation system designed to integrate
-software tools and system operations.
-
-**Focus**
-
-- Automation
-- Modular architecture
-- Developer productivity
+### 💡 Friday
+An **AI-powered personal assistant** for **home automation and computer management**, built with a **plugin-based architecture** designed for future expansion.
 
 ---
 
-## 🧠 Currently Working On
-
-- Desktop applications with **Electron + Vue**
-- Robotics and embedded systems
-- Linux tools and automation
-- Personal developer tools
-
----
-
-## 📊 GitHub Stats
+## 🛠 Tech Stack & Tools
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=onlyymax&show_icons=true&theme=dark" />
-</p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlyymax&layout=compact&theme=dark" />
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
 
----
+<br><br>
 
-## 📫 Contact
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40"/>
 
-- 🌍 Catania, Italy
-- 💻 GitHub: https://github.com/onlyymax
+<br><br>
 
----
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40"/>
 
-<p align="center">
-⚡ Building software, robots and systems — one project at a time.
+<br><br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40"/>
+
 </p>
