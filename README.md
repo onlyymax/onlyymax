@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Max</h1>
-<h3 align="center">Computer Science & Telecommunications Student • Developer • Robotics Enthusiast</h3>
+<h3 align="center">Student • Developer • Robotics • 3D Printing</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=onlyymax&label=Profile%20views&color=202020&style=flat" alt="onlyymax" />
