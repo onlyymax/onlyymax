@@ -65,43 +65,63 @@ Automation • System control • Extensible architecture
 
 # ⚙️ Tech Stack
 
-### Programming Languages
+### 💻 Programming Languages
 
-![Python](https://img.shields.io/badge/Python-202020?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C%2B%2B-202020?style=for-the-badge&logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-202020?style=for-the-badge&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/JavaScript-202020?style=for-the-badge&logo=javascript)
-![PHP](https://img.shields.io/badge/PHP-202020?style=for-the-badge&logo=php)
-
----
-
-### Frameworks & Development
-
-![Electron](https://img.shields.io/badge/Electron-202020?style=for-the-badge&logo=electron)
-![Vue](https://img.shields.io/badge/Vue-202020?style=for-the-badge&logo=vue.js)
-![Flask](https://img.shields.io/badge/Flask-202020?style=for-the-badge&logo=flask)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-202020?style=for-the-badge&logo=tailwindcss)
-![Sass](https://img.shields.io/badge/Sass-202020?style=for-the-badge&logo=sass)
+<p>
+  <img src="https://img.shields.io/badge/Python-202020?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-202020?style=for-the-badge&logo=cplusplus" />
+  <img src="https://img.shields.io/badge/Java-202020?style=for-the-badge&logo=openjdk" />
+  <img src="https://img.shields.io/badge/JavaScript-202020?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/PHP-202020?style=for-the-badge&logo=php" />
+</p>
 
 ---
 
-### Systems & Infrastructure
+### 🧩 Frameworks & Development
 
-![Linux](https://img.shields.io/badge/Linux-202020?style=for-the-badge&logo=linux)
-![Fedora](https://img.shields.io/badge/Fedora-202020?style=for-the-badge&logo=fedora)
-![Nginx](https://img.shields.io/badge/Nginx-202020?style=for-the-badge&logo=nginx)
-![Git](https://img.shields.io/badge/Git-202020?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-202020?style=for-the-badge&logo=github)
-![GitLab](https://img.shields.io/badge/GitLab-202020?style=for-the-badge&logo=gitlab)
+<p>
+  <img src="https://img.shields.io/badge/Electron-202020?style=for-the-badge&logo=electron" />
+  <img src="https://img.shields.io/badge/Vue.js-202020?style=for-the-badge&logo=vue.js" />
+  <img src="https://img.shields.io/badge/Vite-202020?style=for-the-badge&logo=vite" />
+  <img src="https://img.shields.io/badge/Flask-202020?style=for-the-badge&logo=flask" />
+  <img src="https://img.shields.io/badge/TailwindCSS-202020?style=for-the-badge&logo=tailwindcss" />
+  <img src="https://img.shields.io/badge/Sass-202020?style=for-the-badge&logo=sass" />
+</p>
 
 ---
 
-### Embedded & Hardware
+### 🗄 Databases
 
-![Arduino](https://img.shields.io/badge/Arduino-202020?style=for-the-badge&logo=arduino)
-![ESP32](https://img.shields.io/badge/ESP32-202020?style=for-the-badge)
-![STM32](https://img.shields.io/badge/STM32-202020?style=for-the-badge)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-202020?style=for-the-badge&logo=raspberrypi)
+<p>
+  <img src="https://img.shields.io/badge/MySQL-202020?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/SQLite-202020?style=for-the-badge&logo=sqlite" />
+  <img src="https://img.shields.io/badge/phpMyAdmin-202020?style=for-the-badge&logo=phpmyadmin" />
+</p>
+
+---
+
+### 🛠 Tools & Development Environment
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-202020?style=for-the-badge&logo=linux" />
+  <img src="https://img.shields.io/badge/Fedora-202020?style=for-the-badge&logo=fedora" />
+  <img src="https://img.shields.io/badge/VS%20Code-202020?style=for-the-badge&logo=visualstudiocode" />
+  <img src="https://img.shields.io/badge/Git-202020?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/GitHub-202020?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GitLab-202020?style=for-the-badge&logo=gitlab" />
+  <img src="https://img.shields.io/badge/Nginx-202020?style=for-the-badge&logo=nginx" />
+</p>
+
+---
+
+### 🤖 Embedded & Hardware
+
+<p>
+  <img src="https://img.shields.io/badge/Arduino-202020?style=for-the-badge&logo=arduino" />
+  <img src="https://img.shields.io/badge/ESP32-202020?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/STM32-202020?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-202020?style=for-the-badge&logo=raspberrypi" />
+</p>
 
 ---
 
