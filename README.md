@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Max 👋</h1>
 
 <p align="center">
-Developer focused on <b>software, robotics and embedded systems</b><br>
-Building technology where <b>code meets the physical world</b>
+Student • Developer • Robotics • Linux • 3D Printing
 </p>
 
 ---
