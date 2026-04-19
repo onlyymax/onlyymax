@@ -127,5 +127,5 @@ Automation • System control • Extensible architecture
 ---
 
 <p align="center">
-⚡ Stay Safer with Safer
+⚡ Stay Safe with Safer
 </p>
