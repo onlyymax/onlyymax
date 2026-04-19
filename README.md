@@ -22,6 +22,7 @@ but **useful in real-world environments**.
 - 🐧 Daily **Fedora Linux** user
 - 🤖 Interested in **robotics and embedded technologies**
 - 🌋 **3D printing** with my **Bambu Lab P1S Combo**
+- 🏁 **Referee — Rescue Line category** at the **RoboCup Junior Academy 2026 Italian National Competition (Catania)**
 
 ---
 
