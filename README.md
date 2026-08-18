@@ -8,7 +8,7 @@ Student • Developer • Robotics • Linux • 3D Printing
 
 ## 👨‍💻 About Me
 
-I'm an **18-year-old developer from Catania, Italy**, currently in the final year of  
+I'm an **19-year-old developer from Catania, Italy**, currently in the final year of  
 **Computer Science & Telecommunications** at **I.T. Archimede**.
 
 I enjoy building projects where **software interacts with hardware**, combining  
