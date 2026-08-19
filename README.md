@@ -8,8 +8,8 @@ IT Technician • Developer • Robotics • Linux • Embedded Systems • 3D P
 
 ## 👨‍💻 About Me
 
-I'm an **IT technician and developer from Catania, Italy**, recently graduated in  
-**Computer Science & Telecommunications — Computer Science specialization** at **I.T. Archimede**.
+I'm a **19-year-old IT technician and developer from Catania, Italy**, recently graduated in
+**Computer Science & Telecommunications — Computer Science specialization** at **I.T. Archimede**, with a final grade of **90/100**.
 
 I enjoy building projects where **software interacts with hardware**, combining
 software development, robotics, embedded systems, electronics and rapid prototyping.
@@ -17,15 +17,18 @@ software development, robotics, embedded systems, electronics and rapid prototyp
 I use **Linux-based distributions daily, especially Fedora Linux**, as my main
 operating system and development environment.
 
+Since **2021**, I have also carried out **occasional IT support and technical work for private clients**,
+including PC assembly and upgrades, hardware/software troubleshooting and small websites.
+
 My goal is to build technology that is not only functional in code,
 but also **useful in real-world environments**.
 
-- 🎓 Technical Diploma in **Computer Science & Telecommunications — Computer Science specialization**
+- 🎓 Technical Diploma in **Computer Science & Telecommunications — Computer Science specialization** — **2026, 90/100**
 - 🏫 **I.T. Archimede — Catania**
 - 💻 Interested in **software development, systems, networking and hardware**
 - 🐧 Daily user of **Linux-based distributions, especially Fedora Linux**
 - 🤖 Passionate about **robotics, embedded systems and electronics**
-- 🔧 Experience with **PC hardware, diagnostics and technical support**
+- 🔧 IT support experience since **2021**: PC hardware, diagnostics, troubleshooting and small websites
 - 🧩 Interested in projects that integrate **software and hardware**
 - 🖨️ **3D modelling and 3D printing**, from design to functional prototype
 - 🏁 **Rescue Line Referee & Staff Member — RoboCup Junior Academy 2026 Italian National Competition, SiciliaFiera, Misterbianco (CT)**
@@ -34,7 +37,7 @@ but also **useful in real-world environments**.
 
 # 🚀 Featured Projects
 
-### 🤖 Safer
+### 🤖 Safer — 2024–2026
 
 Robotic **workplace safety system** designed to monitor environments and identify
 potential risk situations using sensors and intelligent technologies.
@@ -45,8 +48,7 @@ mechanical structure, 3D modelling and 3D printing.
 
 **Awards**
 
-🏆 **1st Place — ArchimedeLab 2025/2026**
-
+🏆 **1st Place — ArchimedeLab 2025/2026**  
 🏆 **1st Place — Technical Projects Category, ASP Catania**  
 *La Promozione della Salute e della Sicurezza nei Luoghi di Lavoro a partire dai Banchi di Scuola*
 
@@ -56,7 +58,7 @@ Python • C++ • Arduino • Raspberry Pi • Linux • Electronics • Sensor
 
 ---
 
-### 💧 DropSense
+### 💧 DropSense — GreenMindAI 2025
 
 Functional concept for a **smart irrigation system** designed to adapt water delivery
 to the plant's needs and local weather conditions.
@@ -68,7 +70,7 @@ data-driven irrigation management.
 
 ### 🚗 CRS Manager
 
-Desktop management system designed to organize vehicles, customers and operational workflows.
+Desktop management system designed to organize vehicles, customers, rentals and operational workflows.
 
 **Stack**
 
@@ -84,6 +86,53 @@ computer tasks and home systems through a **modular plugin architecture**.
 **Focus**
 
 Automation • System Control • Extensible Architecture
+
+---
+
+# 🧰 Experience
+
+### 🔧 IT Support & Technical Services for Private Clients — 2021–Present
+
+Occasional technical work in Catania involving **PC assembly and configuration, upgrades,
+hardware diagnostics, operating systems, drivers, software, peripherals and hardware/software troubleshooting**.
+
+I also build and publish **small websites**, including configuration of hosting, domains,
+DNS and web servers such as **Apache and Nginx**.
+
+---
+
+# 🎓 Education & Certifications
+
+### 🏫 I.T. Archimede — Catania
+**2021–2026**
+
+Technical Diploma in **Computer Science & Telecommunications — Computer Science specialization**.  
+Final grade: **90/100**.
+
+### 🌐 Cisco Networking Academy — Get Connected
+**2023**
+
+Introductory course focused on information technology, digital devices and networking fundamentals.
+
+---
+
+# 🏁 Activities
+
+### 🤖 Robotics Course — I.T. Archimede
+**2024–2026**
+
+Multi-year robotics course focused on the design and development of technological
+systems and prototypes.
+
+### 🏆 RoboCup Junior Academy — Italian Nationals 2026
+
+**Rescue Line Referee & Staff Member**  
+SiciliaFiera — Misterbianco (CT), Italy
+
+### 🛠️ RoboCup Junior Academy — Sicily Regionals 2025 & 2026
+
+**Staff & Technical Support**  
+STMicroelectronics — Catania, Italy
 
 ---
 
@@ -162,26 +211,6 @@ Electronics • Sensors • Actuators • Hardware/Software Integration • PC H
 Fusion 360 • Blender • Bambu Studio • OrcaSlicer
 
 3D Modelling • Component Design • Slicing • Calibration • Functional Prototyping
-
----
-
-# 🏁 Activities
-
-### 🤖 Robotics Course — I.T. Archimede
-**2024–2026**
-
-Multi-year robotics course focused on the design and development of technological
-systems and prototypes.
-
-### 🏆 RoboCup Junior Academy — Italian Nationals 2026
-
-**Rescue Line Referee & Staff Member**  
-SiciliaFiera — Misterbianco (CT), Italy
-
-### 🛠️ RoboCup Junior Academy — Sicily Regionals 2025 & 2026
-
-**Staff & Technical Support**  
-STMicroelectronics — Catania, Italy
 
 ---
 
