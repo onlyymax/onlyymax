@@ -1,219 +1,167 @@
-<h1 align="center">Hi, I'm Max 👋</h1>
+<h1 align="center">Ciao, io sono Max!</h1>
 
 <p align="center">
-IT Technician • Developer • Robotics • Linux • Embedded Systems • 3D Printing
+  <strong>Tecnico informatico · Sviluppatore · Robotica e sistemi embedded</strong>
+</p>
+
+<p align="center">
+  Catania, Italia
+</p>
+
+<p align="center">
+  <a href="https://onlyymax.dev">Portfolio</a>
+  ·
+  <a href="https://linkedin.onlyymax.dev">LinkedIn</a>
+  ·
+  <a href="https://github.onlyymax.dev">GitHub</a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## Profilo
 
-I'm a **19-year-old IT technician and developer from Catania, Italy**, recently graduated in
-**Computer Science & Telecommunications — Computer Science specialization** at **I.T. Archimede**, with a final grade of **90/100**.
+Diplomato in **Informatica e Telecomunicazioni — articolazione Informatica** presso l’**I.T. Archimede** con votazione **90/100**.
 
-I enjoy building projects where **software interacts with hardware**, combining
-software development, robotics, embedded systems, electronics and rapid prototyping.
+Sviluppo software e web e lavoro su **sistemi, reti, elettronica, sistemi embedded e prototipazione**.
 
-I use **Linux-based distributions daily, especially Fedora Linux**, as my main
-operating system and development environment.
-
-Since **2021**, I have also carried out **occasional IT support and technical work for private clients**,
-including PC assembly and upgrades, hardware/software troubleshooting and small websites.
-
-My goal is to build technology that is not only functional in code,
-but also **useful in real-world environments**.
-
-- 🎓 Technical Diploma in **Computer Science & Telecommunications — Computer Science specialization** — **2026, 90/100**
-- 🏫 **I.T. Archimede — Catania**
-- 💻 Interested in **software development, systems, networking and hardware**
-- 🐧 Daily user of **Linux-based distributions, especially Fedora Linux**
-- 🤖 Passionate about **robotics, embedded systems and electronics**
-- 🔧 IT support experience since **2021**: PC hardware, diagnostics, troubleshooting and small websites
-- 🧩 Interested in projects that integrate **software and hardware**
-- 🖨️ **3D modelling and 3D printing**, from design to functional prototype
-- 🏁 **Rescue Line Referee & Staff Member — RoboCup Junior Academy 2026 Italian National Competition, SiciliaFiera, Misterbianco (CT)**
+- **Formazione:** I.T. Archimede — Diploma 2026 · 90/100
+- **Ambiente principale:** Linux · Fedora
+- **Esperienza pratica:** assistenza IT · siti web · stampa 3D
 
 ---
 
-# 🚀 Featured Projects
+## Progetti selezionati
 
-### 🤖 Safer — 2024–2026
+### Safer
+**Progetto scolastico — I.T. Archimede · 2024–2026**
 
-Robotic **workplace safety system** designed to monitor environments and identify
-potential risk situations using sensors and intelligent technologies.
+Robot a navigazione autonoma per la sicurezza negli ambienti di lavoro, **co-ideato con un docente e sviluppato in gruppo**. Ho contribuito a software, elettronica, sensoristica, integrazione hardware/software e prototipazione.
 
-I co-developed the project idea with a teacher and worked across its main technical
-areas, including software, electronics, sensors, hardware/software integration,
-mechanical structure, 3D modelling and 3D printing.
+**Tecnologie:** Python · C++ · Arduino · Raspberry Pi · Linux · Sensoristica
 
-**Awards**
+**Riconoscimenti**
+- **1° posto — ArchimedeLab 2025/2026**
+- **1° posto — Categoria Progetti Tecnici, ASP Catania**
 
-🏆 **1st Place — ArchimedeLab 2025/2026**  
-🏆 **1st Place — Technical Projects Category, ASP Catania**  
-*La Promozione della Salute e della Sicurezza nei Luoghi di Lavoro a partire dai Banchi di Scuola*
+### CRS Manager
+**Progetto per attività di autonoleggio**
 
-**Technologies & Areas**
+Applicazione desktop sviluppata per gestire **clienti, veicoli, noleggi, calendario operativo e dati locali dell’attività**.
 
-Python • C++ • Arduino • Raspberry Pi • Linux • Electronics • Sensors • Embedded Systems • 3D Modelling • 3D Printing
+**Tecnologie:** Electron · Vue 3 · SQLite · Vite
 
----
+### DropSense
+**Progetto scolastico — GreenMindAI · 2025**
 
-### 💧 DropSense — GreenMindAI 2025
+Concept di irrigazione intelligente pensato per adattare l’apporto d’acqua alle esigenze della pianta e alle condizioni meteorologiche locali, riducendo gli sprechi.
 
-Functional concept for a **smart irrigation system** designed to adapt water delivery
-to the plant's needs and local weather conditions.
+### Friday
+**Progetto scolastico — I.T. Archimede**
 
-The project focuses on **optimizing water usage and reducing waste** through
-data-driven irrigation management.
-
----
-
-### 🚗 CRS Manager
-
-Desktop management system designed to organize vehicles, customers, rentals and operational workflows.
-
-**Stack**
-
-Electron • Vue.js • Vite • SQLite
+Assistente personale sperimentale basato su **intelligenza artificiale**, pensato per automatizzare attività al computer e interagire con sistemi domestici.
 
 ---
 
-### 💡 Friday
+## Esperienza pratica e attività professionali
 
-Experimental **AI-powered personal assistant** focused on automating
-computer tasks and home systems through a **modular plugin architecture**.
+### Autonoleggio
+**Estate 2026 · Lavoro estivo · Catania**
 
-**Focus**
+Supporto alle attività quotidiane e alla gestione dei veicoli. Ho inoltre **sviluppato e mantengo i sistemi informatici dell’attività**, inclusi gli strumenti digitali e gestionali utilizzati nei processi operativi.
 
-Automation • System Control • Extensible Architecture
+### Assistenza informatica e siti web per privati
+**Attività occasionale · Catania**
 
----
+Assemblaggio e configurazione, upgrade, manutenzione e diagnostica; realizzazione e pubblicazione di piccoli siti web con configurazione di **hosting, domini, DNS, Apache e Nginx**.
 
-# 🧰 Experience
+### Stampa 3D per privati
+**Attività occasionale · Catania**
 
-### 🔧 IT Support & Technical Services for Private Clients — 2021–Present
-
-Occasional technical work in Catania involving **PC assembly and configuration, upgrades,
-hardware diagnostics, operating systems, drivers, software, peripherals and hardware/software troubleshooting**.
-
-I also build and publish **small websites**, including configuration of hosting, domains,
-DNS and web servers such as **Apache and Nginx**.
+Progettazione e modellazione di componenti, preparazione dei file, slicing, calibrazione e stampa 3D di componenti e piccoli prototipi su richiesta.
 
 ---
 
-# 🎓 Education & Certifications
+## Formazione
 
-### 🏫 I.T. Archimede — Catania
+### Diploma — I.T. Archimede, Catania
 **2021–2026**
 
-Technical Diploma in **Computer Science & Telecommunications — Computer Science specialization**.  
-Final grade: **90/100**.
+Diploma di Istruzione Tecnica in **Informatica e Telecomunicazioni — Articolazione Informatica**.  
+Votazione finale: **90/100**.
 
-### 🌐 Cisco Networking Academy — Get Connected
-**2023**
-
-Introductory course focused on information technology, digital devices and networking fundamentals.
-
----
-
-# 🏁 Activities
-
-### 🤖 Robotics Course — I.T. Archimede
+### Corso di Robotica
 **2024–2026**
 
-Multi-year robotics course focused on the design and development of technological
-systems and prototypes.
+Percorso pomeridiano pluriennale dell’I.T. Archimede dedicato a robotica, progettazione e prototipazione.
 
-### 🏆 RoboCup Junior Academy — Italian Nationals 2026
+### Cisco Networking Academy — Get Connected
+**2023**
 
-**Rescue Line Referee & Staff Member**  
-SiciliaFiera — Misterbianco (CT), Italy
+Percorso svolto nell’ambito della formazione scolastica, dedicato a tecnologie informatiche e fondamenti delle reti.
 
-### 🛠️ RoboCup Junior Academy — Sicily Regionals 2025 & 2026
-
-**Staff & Technical Support**  
-STMicroelectronics — Catania, Italy
+**Lingue:** Italiano madrelingua · Inglese base
 
 ---
 
-# ⚙️ Tech Stack
+## Attività scolastiche
 
-### 💻 Programming Languages
+### RoboCup Junior Academy — Nazionali
+**2026**
 
-<p>
-  <img src="https://img.shields.io/badge/Python-202020?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-202020?style=for-the-badge&logo=cplusplus" />
-  <img src="https://img.shields.io/badge/Java-202020?style=for-the-badge&logo=openjdk" />
-  <img src="https://img.shields.io/badge/JavaScript-202020?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/PHP-202020?style=for-the-badge&logo=php" />
-  <img src="https://img.shields.io/badge/SQL-202020?style=for-the-badge" />
-</p>
+Arbitro **Rescue Line** e membro dello staff presso **SiciliaFiera, Misterbianco (CT)**.
 
----
+### RoboCup Junior Academy — Regionali Sicilia
+**2025–2026**
 
-### 🌐 Web & Software Development
+Staff e supporto tecnico presso **STMicroelectronics, Catania**.
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-202020?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/CSS3-202020?style=for-the-badge&logo=css3" />
-  <img src="https://img.shields.io/badge/Electron-202020?style=for-the-badge&logo=electron" />
-  <img src="https://img.shields.io/badge/Vue.js-202020?style=for-the-badge&logo=vue.js" />
-  <img src="https://img.shields.io/badge/Vite-202020?style=for-the-badge&logo=vite" />
-  <img src="https://img.shields.io/badge/Flask-202020?style=for-the-badge&logo=flask" />
-  <img src="https://img.shields.io/badge/TailwindCSS-202020?style=for-the-badge&logo=tailwindcss" />
-  <img src="https://img.shields.io/badge/Sass-202020?style=for-the-badge&logo=sass" />
-</p>
+### Open Day — I.T. Archimede
+**2024–2026**
+
+Presentazione e spiegazione al pubblico delle attività e dei progetti tecnologici dell’istituto.
 
 ---
 
-### 🗃️ Databases
+## Competenze tecniche
 
-<p>
-  <img src="https://img.shields.io/badge/MySQL-202020?style=for-the-badge&logo=mysql" />
-  <img src="https://img.shields.io/badge/SQLite-202020?style=for-the-badge&logo=sqlite" />
-  <img src="https://img.shields.io/badge/phpMyAdmin-202020?style=for-the-badge&logo=phpmyadmin" />
-</p>
+### Linguaggi
 
----
+`Python` · `C++` · `Java` · `JavaScript` · `PHP` · `SQL`
 
-### 🐧 Linux, Networking & Tools
+### Web e desktop
 
-<p>
-  <img src="https://img.shields.io/badge/Linux-202020?style=for-the-badge&logo=linux" />
-  <img src="https://img.shields.io/badge/Fedora-202020?style=for-the-badge&logo=fedora" />
-  <img src="https://img.shields.io/badge/Git-202020?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/GitHub-202020?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/GitLab-202020?style=for-the-badge&logo=gitlab" />
-  <img src="https://img.shields.io/badge/VS%20Code-202020?style=for-the-badge&logo=visualstudiocode" />
-  <img src="https://img.shields.io/badge/Apache-202020?style=for-the-badge&logo=apache" />
-  <img src="https://img.shields.io/badge/Nginx-202020?style=for-the-badge&logo=nginx" />
-</p>
+`HTML` · `CSS` · `Vue.js` · `Vite` · `Electron` · `Flask` · `Tailwind CSS` · `Apache` · `Nginx`
 
-**Networking:** TCP/IP • DNS • VLAN • VPN • Firewall • ACL • Client/Server • Cisco Packet Tracer
+### Database e strumenti
 
----
+`MySQL` · `SQLite` · `phpMyAdmin` · `Modello E/R` · `Git` · `GitHub` · `GitLab`
 
-### 🤖 Embedded, Electronics & Hardware
+### Linux e reti
 
-<p>
-  <img src="https://img.shields.io/badge/Arduino-202020?style=for-the-badge&logo=arduino" />
-  <img src="https://img.shields.io/badge/ESP32-202020?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/STM32-202020?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-202020?style=for-the-badge&logo=raspberrypi" />
-</p>
+`Fedora` · `Shell` · `TCP/IP` · `DNS` · `VLAN` · `VPN` · `Firewall` · `ACL` · `Cisco Packet Tracer`
 
-Electronics • Sensors • Actuators • Hardware/Software Integration • PC Hardware • Diagnostics
+### Embedded e hardware
+
+`Arduino` · `ESP32` · `STM32` · `Raspberry Pi` · `Elettronica` · `Sensoristica` · `Integrazione HW/SW` · `Hardware PC`
+
+### CAD e stampa 3D
+
+`Fusion 360` · `Blender` · `Bambu Studio` · `OrcaSlicer` · `Modellazione 3D` · `Slicing` · `Calibrazione` · `Prototipazione`
 
 ---
 
-### 🧊 CAD & 3D Printing
+## Contatti
 
-Fusion 360 • Blender • Bambu Studio • OrcaSlicer
-
-3D Modelling • Component Design • Slicing • Calibration • Functional Prototyping
-
----
+Per collaborazioni e opportunità lavorative puoi contattarmi su **LinkedIn**; su **GitHub** trovi i miei progetti e il codice disponibile.
 
 <p align="center">
-⚡ Stay Safe with Safer
+  <a href="https://linkedin.onlyymax.dev">LinkedIn</a>
+  ·
+  <a href="https://github.onlyymax.dev">GitHub</a>
+  ·
+  <a href="https://onlyymax.dev">onlyymax.dev</a>
+</p>
+
+<p align="center">
+  © 2026 onlyymax.dev
 </p>
