@@ -1,7 +1,7 @@
 <h1 align="center">Ciao, io sono Max! 👋</h1>
 
 <p align="center">
-  <strong>Tecnico informatico • Sviluppatore • Robotica • Linux • Sistemi embedded • Stampa 3D</strong>
+  <strong>Tecnico informatico • Sviluppatore • Robotica e sistemi embedded</strong>
 </p>
 
 <p align="center">
@@ -24,44 +24,33 @@
 
 ## 👨‍💻 Chi sono
 
-Sono un **tecnico informatico e sviluppatore di Catania**, diplomato in  
-**Informatica e Telecomunicazioni — Articolazione Informatica** presso l’**I.T. Archimede**, con votazione finale **90/100**.
+Sviluppo soluzioni **software e web** e lavoro su sistemi, reti, robotica, elettronica, embedded e prototipazione, con particolare interesse per i progetti che integrano **software e hardware**.
 
-Mi interessa soprattutto sviluppare progetti in cui **software e hardware lavorano insieme**, unendo sviluppo software e web, robotica, sistemi embedded, elettronica e prototipazione.
+Uso quotidianamente **Linux**, principalmente **Fedora**, come ambiente di lavoro e sviluppo.
 
-Uso quotidianamente **Linux**, principalmente **Fedora**, come ambiente principale di lavoro e sviluppo.
-
-Svolgo inoltre attività occasionali di **assistenza informatica, realizzazione di piccoli siti web e stampa 3D per privati**.
-
-- 🎓 Diploma in **Informatica e Telecomunicazioni — Articolazione Informatica**
-- 🏫 **I.T. Archimede — Catania**
-- 🏅 Votazione finale: **90/100**
-- 🐧 Uso quotidiano di **Linux / Fedora**
-- 💻 Interesse per **sviluppo software, web, sistemi e reti**
-- 🤖 Passione per **robotica, embedded ed elettronica**
-- 🔧 Attività occasionale di **assistenza informatica e siti web**
-- 🖨️ **Modellazione e stampa 3D**, dal progetto al prototipo
+- 🎓 **Diploma 2026 · 90/100 — I.T. Archimede**
+- 🐧 Ambiente principale: **Linux · Fedora**
+- 💻 Attività: **software · web · assistenza IT · stampa 3D**
+- 🤖 Interesse per **robotica, sistemi embedded ed elettronica**
+- 🧩 Mi piace progettare soluzioni che uniscono **software e hardware**
 - 🏁 **Arbitro Rescue Line e membro dello staff — RoboCup Junior Academy 2026**
 
 ---
 
 # 🚀 Progetti principali
 
-## 🤖 Safer — 2024–2026
+## 🤖 Safer
+**Progetto scolastico — I.T. Archimede · 2024–2026**
 
-**Progetto scolastico — I.T. Archimede**
+Robot a navigazione autonoma per la **sicurezza negli ambienti di lavoro**, co-ideato con un docente e sviluppato in gruppo.
 
-Robot a navigazione autonoma progettato per contribuire alla **sicurezza negli ambienti di lavoro**.
-
-Il progetto è stato **co-ideato con un docente e sviluppato in gruppo**.  
-Ho contribuito alle principali aree tecniche del progetto:
+Ho contribuito a:
 
 - sviluppo software;
 - elettronica;
 - sensoristica;
 - integrazione hardware/software;
-- struttura e prototipazione;
-- modellazione e stampa 3D.
+- prototipazione.
 
 ### 🏆 Riconoscimenti
 
@@ -82,76 +71,74 @@ Ho contribuito alle principali aree tecniche del progetto:
 
 ---
 
-## 🚗 CRS Manager
+## 🚗 CRS — ecosistema digitale per autonoleggio
+**Progetto reale — CRS Autonoleggio & Servizi**
 
-**Progetto per attività di autonoleggio**
+Per l’attività ho realizzato due strumenti complementari: **il sito pubblico rivolto ai clienti** e **un gestionale desktop dedicato all’operatività interna**.
 
-Applicazione desktop realizzata per gestire in modo locale:
+### 🌐 Sito web
+
+Presenta i servizi dell’attività e offre ai clienti un punto di contatto online chiaro e accessibile.
+
+<p>
+  <a href="https://www.crsautonoleggioeservizi.it/">
+    <img src="https://img.shields.io/badge/Visita%20il%20sito-crsautonoleggioeservizi.it-202020?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
+
+### 🖥️ CRS Manager
+
+Software gestionale desktop per:
 
 - clienti;
 - veicoli;
 - noleggi;
 - calendario operativo;
-- dati e flussi dell’attività.
-
-### ⚙️ Stack
+- gestione locale dei dati.
 
 <p>
   <img src="https://img.shields.io/badge/Electron-202020?style=for-the-badge&logo=electron&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-202020?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-202020?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue%203-202020?style=for-the-badge&logo=vuedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-202020?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-202020?style=for-the-badge&logo=vite&logoColor=white" />
 </p>
 
 ---
 
-## 💧 DropSense — GreenMindAI 2025
+## 💧 DropSense
+**Progetto scolastico — GreenMindAI · 2025**
 
-Concept funzionale per un **sistema di irrigazione intelligente** pensato per adattare l’apporto d’acqua alle esigenze della pianta e alle condizioni meteorologiche locali.
-
-L’obiettivo è **ottimizzare l’utilizzo dell’acqua e ridurre gli sprechi** attraverso una gestione più intelligente dell’irrigazione.
+Concept di irrigazione intelligente pensato per adattare l’apporto d’acqua alle esigenze della pianta e alle condizioni meteorologiche locali, riducendo gli sprechi.
 
 ---
 
 ## 💡 Friday
-
 **Progetto scolastico — I.T. Archimede**
 
 Assistente personale sperimentale basato su **intelligenza artificiale**, pensato per automatizzare attività al computer e interagire con sistemi domestici.
 
-**Focus:** Automazione • Controllo del sistema • Architettura modulare
-
 ---
 
-# 🧰 Esperienza pratica
+# 🧰 Esperienza pratica e attività professionali
 
 ## 🚘 Autonoleggio
 **Estate 2026 · Lavoro estivo · Catania**
 
-Supporto alle attività quotidiane e alla gestione dei veicoli.
-
-Ho inoltre **sviluppato e mantengo i sistemi informatici dell’attività**, inclusi strumenti digitali e gestionali utilizzati nei processi operativi.
+Supporto alle attività quotidiane e alla gestione dei veicoli, insieme alla **responsabilità tecnica degli strumenti digitali dell’attività**, di cui curo sviluppo, manutenzione ed evoluzione.
 
 ---
 
 ## 🔧 Assistenza informatica e siti web per privati
 **Attività occasionale · Catania**
 
-Attività che comprendono:
-
-- assemblaggio e configurazione PC;
-- upgrade;
-- manutenzione e diagnostica;
-- realizzazione di piccoli siti web;
-- configurazione di hosting, domini e DNS;
-- configurazione di server web con **Apache** e **Nginx**.
+Assemblaggio e configurazione, upgrade, manutenzione e diagnostica; realizzazione e pubblicazione di piccoli siti web con configurazione di **hosting, domini, DNS, Apache e Nginx**.
 
 ---
 
 ## 🖨️ Stampa 3D per privati
 **Attività occasionale · Catania**
 
-Progettazione e modellazione di componenti, preparazione dei file, slicing, calibrazione e stampa di componenti e piccoli prototipi su richiesta.
+Progettazione e modellazione di componenti, preparazione dei file, slicing, calibrazione e stampa 3D di componenti e piccoli prototipi su richiesta.
 
 ---
 
@@ -160,9 +147,7 @@ Progettazione e modellazione di componenti, preparazione dei file, slicing, cali
 ## 🏫 Diploma — I.T. Archimede, Catania
 **2021–2026**
 
-Diploma di Istruzione Tecnica in  
-**Informatica e Telecomunicazioni — Articolazione Informatica**
-
+Diploma di Istruzione Tecnica in **Informatica e Telecomunicazioni — Articolazione Informatica**.  
 **Votazione finale: 90/100**
 
 ---
@@ -177,13 +162,14 @@ Percorso pomeridiano pluriennale dell’I.T. Archimede dedicato a **robotica, pr
 ## 🌐 Cisco Networking Academy — Get Connected
 **2023**
 
-Percorso svolto nell’ambito della formazione scolastica dedicato a **tecnologie informatiche e fondamenti delle reti**.
+Percorso svolto nell’ambito della formazione scolastica, dedicato a **tecnologie informatiche e fondamenti delle reti**.
 
 ---
 
 # 🏁 Attività scolastiche
 
-## 🏆 RoboCup Junior Academy — Nazionali 2026
+## 🏆 RoboCup Junior Academy — Nazionali
+**2026**
 
 **Arbitro Rescue Line e membro dello staff**  
 📍 SiciliaFiera — Misterbianco (CT)
@@ -207,7 +193,7 @@ Presentazione e spiegazione al pubblico delle attività e dei progetti tecnologi
 
 # ⚙️ Tech Stack
 
-## 💻 Linguaggi di programmazione
+## 💻 Linguaggi
 
 <p>
   <img src="https://img.shields.io/badge/Python-202020?style=for-the-badge&logo=python&logoColor=white" />
@@ -247,7 +233,7 @@ Presentazione e spiegazione al pubblico delle attività e dei progetti tecnologi
   <img src="https://img.shields.io/badge/GitLab-202020?style=for-the-badge&logo=gitlab&logoColor=white" />
 </p>
 
-**Database:** Modello E/R • Modello relazionale • SQL
+**Database:** Modello E/R • MySQL • SQLite • SQL
 
 ---
 
@@ -259,12 +245,12 @@ Presentazione e spiegazione al pubblico delle attività e dei progetti tecnologi
   <img src="https://img.shields.io/badge/Cisco-202020?style=for-the-badge&logo=cisco&logoColor=white" />
 </p>
 
-**Sistemi:** Shell • gestione pacchetti • servizi • troubleshooting  
+**Sistemi:** Shell  
 **Reti:** TCP/IP • DNS • VLAN • VPN • Firewall • ACL • Cisco Packet Tracer
 
 ---
 
-## 🤖 Embedded, elettronica e hardware
+## 🤖 Embedded e hardware
 
 <p>
   <img src="https://img.shields.io/badge/Arduino-202020?style=for-the-badge&logo=arduino&logoColor=white" />
@@ -273,7 +259,7 @@ Presentazione e spiegazione al pubblico delle attività e dei progetti tecnologi
   <img src="https://img.shields.io/badge/Raspberry%20Pi-202020?style=for-the-badge&logo=raspberrypi&logoColor=white" />
 </p>
 
-Elettronica • Sensoristica • Attuatori • Integrazione hardware/software • Hardware PC
+Elettronica • Sensoristica • Integrazione HW/SW • Hardware PC
 
 ---
 
@@ -282,11 +268,11 @@ Elettronica • Sensoristica • Attuatori • Integrazione hardware/software �
 <p>
   <img src="https://img.shields.io/badge/Fusion%20360-202020?style=for-the-badge&logo=autodesk&logoColor=white" />
   <img src="https://img.shields.io/badge/Blender-202020?style=for-the-badge&logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bambu%20Studio-202020?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/OrcaSlicer-202020?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bambu%20Studio-202020?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OrcaSlicer-202020?style=for-the-badge" />
 </p>
 
-Modellazione 3D • Progettazione componenti • Slicing • Calibrazione • Prototipazione funzionale
+Modellazione 3D • Slicing • Calibrazione • Prototipazione
 
 ---
 
@@ -298,6 +284,8 @@ Modellazione 3D • Progettazione componenti • Slicing • Calibrazione • Pr
 ---
 
 # 📫 Contatti
+
+Per collaborazioni e opportunità lavorative puoi contattarmi su **LinkedIn**; su **GitHub** trovi i miei progetti e il codice disponibile.
 
 <p align="center">
   <a href="https://onlyymax.dev">
